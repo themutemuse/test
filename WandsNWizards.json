@@ -14,8 +14,8 @@
 				]
 			}
 		],
-		"dateAdded": 1606578434,
-		"dateLastModified": 1606578434
+		"dateAdded": 1606579158,
+		"dateLastModified": 1606579158
 	},
 	"spell": [
 		{
@@ -58,6 +58,61 @@
 				"constitution"
 			],
 			"areaTags": [
+				"N"
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Sorcerer",
+						"source": "PHB"
+					}
+				]
+			}
+		},
+		{
+			"name": "Bombarda",
+			"source": "WandsNWizards",
+			"page": 59,
+			"level": 0,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "a wand"
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"entries": [
+				"The spell blasts whatever it hits, creating a localized concussive explosion upon impact. Make a ranged spell attack against a target within range. On a hit, the target takes {@damage 1d10} bludgeoning damage.",
+				"This spell’s damage increases by {@dice 1d10} when you reach 5th level ({@dice 2d10}), 11th level ({@dice 3d10}), and 17th level ({@dice 4d10})."
+			],
+			"damageInflict": [
+				"bludgeoning"
+			],
+			"spellAttack": [
+				"R"
+			],
+			"miscTags": [
+				"SCL"
+			],
+			"areaTags": [
+				"ST",
 				"N"
 			],
 			"classes": {
