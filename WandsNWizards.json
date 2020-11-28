@@ -21,10 +21,10 @@
 	},
 	"spell": [
 		{
-			"name": "Asmodeus' Enteral Suffering",
-			"source": "GrimloresGrimoire",
-			"page": 53,
-			"level": 9,
+			"name": "Bombarda",
+			"source": "WandsNWizards",
+			"page": 59,
+			"level": 0,
 			"school": "V",
 			"time": [
 				{
@@ -48,9 +48,8 @@
 				}
 			],
 			"entries": [
-				"You call upon the Supreme Master of the Nine Hells to mark an unfortunate soul for unending torment. Make a ranged spell against a target you can see within range. On a hit, the target takes {@damage 12d8} fire damage and the symbol of Asmodeus is branded into their forehead for 1 minute. The creature takes {@damage 6d8} fire damage each time takes an action while it is branded in this manner.",
-				"If a creature is killed while under the effects of this spell, its soul becomes eternally damned. At the start of your next turn, the creature's soul rises as a shadow demon that is under your control for 24 hours, after which it stops obeying any command you've given it.",
-				"Any creature who is killed by this spell can be restored to life only by means of a {@spell wish} spell if the shadow demon has been slain."
+				"The spell blasts whatever it hits, creating a localized concussive explosion upon impact. Make a ranged spell attack against a target within range. On a hit, the target takes 1d10 bludgeoning damage.",
+				"This spell’s damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10)."
 			],
 			"damageInflict": [
 				"fire"
@@ -68,15 +67,7 @@
 			"classes": {
 				"fromClassList": [
 					{
-						"name": "Cleric",
-						"source": "PHB"
-					},
-					{
-						"name": "Warlock",
-						"source": "PHB"
-					},
-					{
-						"name": "Wizard",
+						"name": "Sorcerer",
 						"source": "PHB"
 					}
 				]
