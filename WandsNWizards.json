@@ -2,17 +2,17 @@
 	"_meta": {
 		"sources": [
 			{
-				"json": "GrimloresGrimoire",
-				"abbreviation": "GG",
+				"json": "WandsNWizards",
+				"abbreviation": "WNW",
 				"color": "7e40b8",
-				"full": "Grimlore's Grimoire",
-				"version": "2.11.1",
-				"url": "https://www.dmsguild.com/product/250265/Grimlores-Grimoire",
+				"full": "Wands and Wizards",
+				"version": "1.0",
+				"url": "https://www.gmbinder.com/share/-LsXE64qLDdLgBczM2kA",
 				"authors": [
-					"Trevor Armstrong"
+					"Murphen44"
 				],
 				"convertedBy": [
-					"GoR"
+					"TheMuteMuse"
 				]
 			}
 		],
