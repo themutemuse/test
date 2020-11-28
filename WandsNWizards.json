@@ -5353,12 +5353,12 @@
 			]
 		},
 		{
-			"name": "Bombarda",
+			"name": "Chill Touch",
 			"source": "PHB",
 			"page": 221,
 			"srd": true,
 			"level": 0,
-			"school": "v",
+			"school": "N",
 			"time": [
 				{
 					"number": 1,
@@ -5391,16 +5391,16 @@
 				"This spell's damage increases by {@dice 1d8} when you reach 5th level ({@damage 2d8}), 11th level ({@damage 3d8}), and 17th level ({@damage 4d8})."
 			],
 			"scalingLevelDice": {
-				"label": "bludgeoning damage",
+				"label": "necrotic damage",
 				"scaling": {
-					"1": "1d10",
-					"5": "2d10",
-					"11": "3d10",
-					"17": "4d10"
+					"1": "1d8",
+					"5": "2d8",
+					"11": "3d8",
+					"17": "4d8"
 				}
 			},
 			"damageInflict": [
-				"bludgeoning"
+				"necrotic"
 			],
 			"spellAttack": [
 				"R"
