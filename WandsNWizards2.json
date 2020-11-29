@@ -7668,9 +7668,12 @@
 },
 {
       "name": "Zire Bolt",
-      "source": "PHB",
-      "page": 242,
-      "srd": true,
+      "_copy": {
+            "name": "Fire bolt",
+            "source": "PHB"
+      },
+      "source": "WandsNWizards",
+      "page": "57-80",
       "level": 0,
       "school": "V",
       "time": [
@@ -7831,6 +7834,20 @@
 }
 }
 ]
+      "roll20Spell": [
+		{
+			"name": "Iceball",
+			"source": "json_in_meta",
+			"data": {
+ 				"Save": "Dexterity",
+				"Damage": "6d8,
+				"Damage Type": "Cold",
+				"Save Success": "Half damage",
+				"Higher Spell Slot Die": "d8",
+				"Higher Spell Slot Dice": "1"
+			}
+		}
+	]
 }
 
 
