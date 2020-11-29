@@ -106,7 +106,7 @@
 }
 ],
 "entries": [
-"A target object is pulled directly to the caster as if carried by an invisible hand. The object is selected by pointing at it with a wand or by naming it Accio broom. An object heavier than 20 pounds may not be summoned. At Higher Levels. When you cast this spell using a spell slot of 1st level or higher you may select or stack one of the following effects for each slot level above 0. Increase spell range by 100 feet. Increase weight limit to 40 pounds. Target up to 5 identical objects in range."
+"A target object is pulled directly to the caster as if carried by an invisible hand. The object is selected by pointing at it with a wand or by naming it Accio broom. An object heavier than 20 pounds may not be summoned.","At Higher Levels. When you cast this spell using a spell slot of 1st level or higher you may select or stack one of the following effects for each slot level above 0.","Increase spell range by 100 feet.","Increase weight limit to 40 pounds.","Target up to 5 identical objects in range."
 ],
 "damageInflict": [
 "radiant"
