@@ -34,7 +34,6 @@
 "type": "point",
 "distance": {
 "type": "self"
-
 }
 },
 "components": {
@@ -99,10 +98,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -207,10 +202,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -261,10 +252,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -369,10 +356,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -477,10 +460,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -639,10 +618,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -682,7 +657,6 @@
 "type": "point",
 "distance": {
 "type": "touch"
-
 }
 },
 "components": {
@@ -693,10 +667,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -790,7 +760,6 @@
 "type": "point",
 "distance": {
 "type": "touch"
-
 }
 },
 "components": {
@@ -803,7 +772,6 @@
 "type": "permanent",
 "ends": [
 "dispel"
-
 ]
 }
 ],
@@ -844,7 +812,6 @@
 "type": "point",
 "distance": {
 "type": "touch"
-
 }
 },
 "components": {
@@ -857,7 +824,6 @@
 "type": "permanent",
 "ends": [
 "dispel"
-
 ]
 }
 ],
@@ -1017,10 +983,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -1060,7 +1022,6 @@
 "type": "point",
 "distance": {
 "type": "touch"
-
 }
 },
 "components": {
@@ -1073,7 +1034,6 @@
 "type": "permanent",
 "ends": [
 "dispel"
-
 ]
 }
 ],
@@ -1233,10 +1193,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -1384,7 +1340,6 @@
 "type": "point",
 "distance": {
 "type": "self"
-
 }
 },
 "components": {
@@ -1503,10 +1458,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -1557,10 +1508,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -1611,10 +1558,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -1665,10 +1608,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -1719,10 +1658,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -1773,10 +1708,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -2140,7 +2071,6 @@
 "type": "point",
 "distance": {
 "type": "touch"
-
 }
 },
 "components": {
@@ -2205,10 +2135,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -2313,10 +2239,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -2475,10 +2397,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -2529,10 +2447,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -2637,10 +2551,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -2693,7 +2603,6 @@
 "type": "permanent",
 "ends": [
 "dispel"
-
 ]
 }
 ],
@@ -2745,10 +2654,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -2799,10 +2704,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -2842,7 +2743,6 @@
 "type": "point",
 "distance": {
 "type": "touch"
-
 }
 },
 "components": {
@@ -2855,7 +2755,6 @@
 "type": "permanent",
 "ends": [
 "dispel"
-
 ]
 }
 ],
@@ -2907,10 +2806,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -2950,7 +2845,6 @@
 "type": "point",
 "distance": {
 "type": "touch"
-
 }
 },
 "components": {
@@ -2963,7 +2857,6 @@
 "type": "permanent",
 "ends": [
 "dispel"
-
 ]
 }
 ],
@@ -3069,10 +2962,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -3112,7 +3001,6 @@
 "type": "point",
 "distance": {
 "type": "touch"
-
 }
 },
 "components": {
@@ -3285,10 +3173,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -3555,10 +3439,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -3609,10 +3489,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -3652,7 +3528,6 @@
 "type": "point",
 "distance": {
 "type": "touch"
-
 }
 },
 "components": {
@@ -3868,7 +3743,6 @@
 "type": "point",
 "distance": {
 "type": "touch"
-
 }
 },
 "components": {
@@ -4365,10 +4239,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -4462,7 +4332,6 @@
 "type": "point",
 "distance": {
 "type": "self"
-
 }
 },
 "components": {
@@ -4475,7 +4344,6 @@
 "type": "permanent",
 "ends": [
 "dispel"
-
 ]
 }
 ],
@@ -4527,10 +4395,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -4678,7 +4542,6 @@
 "type": "point",
 "distance": {
 "type": "touch"
-
 }
 },
 "components": {
@@ -4786,7 +4649,6 @@
 "type": "point",
 "distance": {
 "type": "self"
-
 }
 },
 "components": {
@@ -4840,7 +4702,6 @@
 "type": "point",
 "distance": {
 "type": "touch"
-
 }
 },
 "components": {
@@ -4948,7 +4809,6 @@
 "type": "point",
 "distance": {
 "type": "touch"
-
 }
 },
 "components": {
@@ -5123,7 +4983,6 @@
 "type": "permanent",
 "ends": [
 "dispel"
-
 ]
 }
 ],
@@ -5175,10 +5034,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -5337,10 +5192,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -5391,10 +5242,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -5434,7 +5281,6 @@
 "type": "point",
 "distance": {
 "type": "touch"
-
 }
 },
 "components": {
@@ -5499,10 +5345,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -5542,7 +5384,6 @@
 "type": "point",
 "distance": {
 "type": "touch"
-
 }
 },
 "components": {
@@ -5596,7 +5437,6 @@
 "type": "point",
 "distance": {
 "type": "self"
-
 }
 },
 "components": {
@@ -5607,10 +5447,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -5758,7 +5594,6 @@
 "type": "point",
 "distance": {
 "type": "self"
-
 }
 },
 "components": {
@@ -5769,10 +5604,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -5812,7 +5643,6 @@
 "type": "point",
 "distance": {
 "type": "self"
-
 }
 },
 "components": {
@@ -5823,10 +5653,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -5866,7 +5692,6 @@
 "type": "point",
 "distance": {
 "type": "self"
-
 }
 },
 "components": {
@@ -5920,7 +5745,6 @@
 "type": "point",
 "distance": {
 "type": "self"
-
 }
 },
 "components": {
@@ -6093,10 +5917,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -6147,10 +5967,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -6201,10 +6017,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -6255,10 +6067,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -6298,7 +6106,6 @@
 "type": "point",
 "distance": {
 "type": "touch"
-
 }
 },
 "components": {
@@ -6309,10 +6116,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -6363,10 +6166,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -6525,10 +6324,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -6633,10 +6428,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -6687,10 +6478,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -6795,10 +6582,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -6849,10 +6632,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -6903,10 +6682,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -7065,10 +6840,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -7108,7 +6879,6 @@
 "type": "point",
 "distance": {
 "type": "touch"
-
 }
 },
 "components": {
@@ -7119,10 +6889,6 @@
 "duration": [
 {
 "type": "instant"
-
-
-
-
 }
 ],
 "entries": [
@@ -7324,7 +7090,6 @@
 "type": "point",
 "distance": {
 "type": "touch"
-
 }
 },
 "components": {
@@ -7486,7 +7251,6 @@
 "type": "point",
 "distance": {
 "type": "touch"
-
 }
 },
 "components": {
@@ -7499,7 +7263,6 @@
 "type": "permanent",
 "ends": [
 "dispel"
-
 ]
 }
 ],
@@ -7594,7 +7357,6 @@
 "type": "point",
 "distance": {
 "type": "touch"
-
 }
 },
 "components": {
