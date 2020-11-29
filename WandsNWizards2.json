@@ -1,27 +1,61 @@
 {
-	"_meta": {
-		"sources": [
-			{
-				"json": "WandsNWizards",
-				"abbreviation": "WNW",
-				"full": "WandsNWizards",
-				"url": "https://raw.githubusercontent.com/themutemuse/test/main/WandsNWizards.json",
-				"authors": [
-					"Murphen44"
-				],
-				"convertedBy": [
-					"TheMuteMuse"
-				]
-			}
-		],
-		"dateAdded": 1606589423,
-		"dateLastModified": 1606589423
-	},
-	"spell": [
+"_meta": {
+"sources": [
+{
+"json": "WandsNWizards",
+"abbreviation": "WNW",
+"full": "WandsNWizards",
+"url": "https://raw.githubusercontent.com/themutemuse/test/main/WandsNWizards.json",
+"authors": [
+"Murphen44"
+],
+"convertedBy": [
+"TheMuteMuse"
+]
+}
+],
+"dateAdded": 1606589423,
+"dateLastModified": 1606589423
+},
+"spell": [
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {
 "name": "Abscondi",
 "source": "WandsNWizards",
-"page": 58,
+"page": "57-80",
 "level": 2,
 "school": "Charm",
 "time": [
@@ -44,6 +78,1753 @@
 },
 "duration": [
 {
+"type": "timed",
+"duration": {
+"type": "hour",
+"amount": "1"
+}
+}
+],
+"entries": [
+"A magical aura makes your impact on your surroundings unseen masking you and your companions from detection. For the duration each creature you choose within 30 feet of you (including you) has a +10 bonus to Dexterity (Stealth) checks and can’t be tracked except by magical means. A creature that receives this bonus leaves behind no tracks or other traces of its passage."
+],
+"damageInflict": [
+"radiant"
+],
+"savingThrow": [
+"constitution"
+],
+"areaTags": [
+"N"
+],
+"classes": {
+"fromClassList": [
+{
+"name": "Sorcerer",
+"source": "PHB"
+}
+]
+}
+},
+{
+"name": "Accio",
+"source": "WandsNWizards",
+"page": "57-80",
+"level": 0,
+"school": "Charm",
+"time": [
+{
+"number": 1,
+"unit": "action"
+}
+],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 30
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a wand"
+},
+"duration": [
+{
+"type": "instant"
+
+
+
+
+}
+],
+"entries": [
+"A target object is pulled directly to the caster as if carried by an invisible hand. The object is selected by pointing at it with a wand or by naming it Accio broom. An object heavier than 20 pounds may not be summoned.","At Higher Levels. When you cast this spell using a spell slot of 1st level or higher you may select or stack one of the following effects for each slot level above 0.","Increase spell range by 100 feet.","Increase weight limit to 40 pounds.","Target up to 5 identical objects in range."
+],
+"damageInflict": [
+"radiant"
+],
+"savingThrow": [
+"constitution"
+],
+"areaTags": [
+"N"
+],
+"classes": {
+"fromClassList": [
+{
+"name": "Sorcerer",
+"source": "PHB"
+}
+]
+}
+}
+{
+"name": "Aguamenti",
+"source": "WandsNWizards",
+"page": "57-80",
+"level": 0,
+"school": "Transfiguration",
+"time": [
+{
+"number": 1,
+"unit": "action"
+}
+],
+"range": {
+"type": "cone",
+"distance": {
+"type": "feet",
+"amount": 30
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a wand"
+},
+"duration": [
+{
+"type": "timed",
+"duration": {
+"type": "minute",
+"amount": "1"
+}
+}
+],
+"entries": [
+"A cone of clear pure water shoots from the tip of the caster's wand with the desired force. The water doesn’t go bad and extinguishes exposed flames in the area."
+],
+"damageInflict": [
+"radiant"
+],
+"savingThrow": [
+"constitution"
+],
+"areaTags": [
+"N"
+],
+"classes": {
+"fromClassList": [
+{
+"name": "Sorcerer",
+"source": "PHB"
+}
+]
+}
+}
+{
+"name": "Alohomora",
+"source": "WandsNWizards",
+"page": "57-80",
+"level": 0,
+"school": "Charm",
+"time": [
+{
+"number": 1,
+"unit": "action"
+}
+],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 60
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a wand"
+},
+"duration": [
+{
+"type": "instant"
+
+
+
+
+}
+],
+"entries": [
+"Choose a door or window that you can see within range that uses mundane or magical means to prevent access.","A target that is held shut by a mundane lock or that is stuck or barred becomes unlocked unstuck or unbarred. If the object has multiple locks only one of them is unlocked.","If you choose a target that is held shut with Colloportus that spell is removed.","When you cast the spell the mechanism noisily turns and unlocks. This noise emanates from the target object and is audible from as far away as 100 feet."
+],
+"damageInflict": [
+"radiant"
+],
+"savingThrow": [
+"constitution"
+],
+"areaTags": [
+"N"
+],
+"classes": {
+"fromClassList": [
+{
+"name": "Sorcerer",
+"source": "PHB"
+}
+]
+}
+}
+{
+"name": "Anapneo",
+"source": "WandsNWizards",
+"page": "57-80",
+"level": 0,
+"school": "Healing",
+"time": [
+{
+"number": 1,
+"unit": "action"
+}
+],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 30
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a wand"
+},
+"duration": [
+{
+"type": "instant"
+
+
+
+
+}
+],
+"entries": [
+"Tags: School of Magic - Healing","A being's airway is cleared and they are assisted in breathing. If used on a living being that has 0 hit points the being becomes stable."
+],
+"damageInflict": [
+"radiant"
+],
+"savingThrow": [
+"constitution"
+],
+"areaTags": [
+"N"
+],
+"classes": {
+"fromClassList": [
+{
+"name": "Sorcerer",
+"source": "PHB"
+}
+]
+}
+}
+{
+"name": "Appare Vestigium",
+"source": "WandsNWizards",
+"page": "57-80",
+"level": 4,
+"school": "Divination",
+"time": [
+{
+"number": 1,
+"unit": "minute"
+}
+],
+"range": {
+"type": "sphere",
+"distance": {
+"type": "feet",
+"amount": 30
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a wand"
+},
+"duration": [
+{
+"type": "timed",
+"duration": {
+"type": "minute",
+"amount": "10"
+}
+}
+],
+"entries": [
+"With a spin and a spray of golden mist recent magical activity is revealed and illuminated through ghostly images hanging in the air recreating the magical beings magical creatures or magical events that have been in the area within the last 10 minutes. Magical footprints and track marks are also highlighted on the ground. Any of the effects can be hidden highlighted or expanded for the duration.","At Higher Levels. When you cast this spell using a spell slot of a higher level the historical window extends to 1 hour (5th level) 24 hours (6th level) or a week (7th level)."
+],
+"damageInflict": [
+"radiant"
+],
+"savingThrow": [
+"constitution"
+],
+"areaTags": [
+"N"
+],
+"classes": {
+"fromClassList": [
+{
+"name": "Sorcerer",
+"source": "PHB"
+}
+]
+}
+}
+{
+"name": "Arania Exumai",
+"source": "WandsNWizards",
+"page": "57-80",
+"level": 2,
+"school": "Curse",
+"time": [
+{
+"number": 1,
+"unit": "action"
+}
+],
+"range": {
+"type": "cone",
+"distance": {
+"type": "feet",
+"amount": 30
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a wand"
+},
+"duration": [
+{
+"type": "instant"
+
+
+
+
+}
+],
+"entries": [
+"This spell blasts away spiders Acromantulas or arachnids with a cone of bright scorching light. Each spider-like creature in a 30-foot cone must make a Constitution saving throw. On a failed save a creature takes 4d6 radiant damage and is knocked back 5 feet plus a number of feet equal to five times your spellcasting ability modifier. On a successful save it takes half as much damage and isn't knocked back.","Any non-arachnid creatures within the area of the spell is unaffected.","At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher the damage increases by 1d6 and the shove distance increases by 10 feet for each slot level above 2nd."
+],
+"damageInflict": [
+"radiant"
+],
+"savingThrow": [
+"constitution"
+],
+"areaTags": [
+"N"
+],
+"classes": {
+"fromClassList": [
+{
+"name": "Sorcerer",
+"source": "PHB"
+}
+]
+}
+}
+{
+"name": "Arresto Momentum",
+"source": "WandsNWizards",
+"page": "57-80",
+"level": 1,
+"school": "Charm",
+"time": [
+{
+"number": 1,
+"unit": "reaction"
+}
+],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 60
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a wand"
+},
+"duration": [
+{
+"type": "timed",
+"duration": {
+"type": "minute",
+"amount": "1"
+}
+}
+],
+"entries": [
+"Choose up to five falling creatures within range. A falling creature's rate of descent slows to 60 feet per round until the spell ends. If the creature lands before the spell ends it takes no falling damage and can land on its feet and the spell ends for that creature."
+],
+"damageInflict": [
+"radiant"
+],
+"savingThrow": [
+"constitution"
+],
+"areaTags": [
+"N"
+],
+"classes": {
+"fromClassList": [
+{
+"name": "Sorcerer",
+"source": "PHB"
+}
+]
+}
+}
+{
+"name": "Avada Kedavra",
+"source": "WandsNWizards",
+"page": "57-80",
+"level": 8,
+"school": "Curse",
+"time": [
+{
+"number": 1,
+"unit": "action"
+}
+],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 60
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a wand"
+},
+"duration": [
+{
+"type": "instant"
+
+
+
+
+}
+],
+"entries": [
+"Tags: Dark - Unforgivable Curse","The most dangerous of the Unforgivables Avada Kedavra channels the caster's pure hatred into an unblockable spell that kills whatever it strikes. Make a ranged spell attack against a target within range. On a hit and if the target has 100 hit points or fewer it dies or is destroyed. Otherwise the spell has no effect. Defensive spells have no effect against this spell and it can only be blocked by physical objects.","At Higher Levels. When you cast this spell using a spell slot of 9th level there is no hit point restriction."
+],
+"damageInflict": [
+"radiant"
+],
+"savingThrow": [
+"constitution"
+],
+"areaTags": [
+"N"
+],
+"classes": {
+"fromClassList": [
+{
+"name": "Sorcerer",
+"source": "PHB"
+}
+]
+}
+}
+{
+"name": "Avis",
+"source": "WandsNWizards",
+"page": "57-80",
+"level": 3,
+"school": "Transfiguration",
+"time": [
+{
+"number": 1,
+"unit": "action"
+}
+],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 60
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a wand"
+},
+"duration": [
+{
+"type": "timed",
+"duration": {
+"type": "hour",
+"amount": "1"
+}
+}
+],
+"entries": [
+"You conjure a swarm of birds that are a species of your choice. The swarm disappears when it drops to 0 hit points or when the spell ends.","The conjured birds are friendly to you and your companions. Roll initiative for the summoned swarms as a group which has its own turns. They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to them they defend themselves from hostile creatures but otherwise take no actions.","The HM has the creatures' statistics.","At Higher Levels. When you cast this spell using certain higher-level spell slots more creatures appear - twice as many with a 5th-level slot three times as many with a 7th-level slot and four times as many with a 9th-level slot."
+],
+"damageInflict": [
+"radiant"
+],
+"savingThrow": [
+"constitution"
+],
+"areaTags": [
+"N"
+],
+"classes": {
+"fromClassList": [
+{
+"name": "Sorcerer",
+"source": "PHB"
+}
+]
+}
+}
+{
+"name": "Azreth",
+"source": "WandsNWizards",
+"page": "57-80",
+"level": 7,
+"school": "Curse",
+"time": [
+{
+"number": 1,
+"unit": "action"
+}
+],
+"range": {
+"type": "cube",
+"distance": {
+"type": "feet",
+"amount": 10
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a wand"
+},
+"duration": [
+{
+"type": "timed",
+"duration": {
+"type": "round",
+"amount": "7"
+}
+}
+],
+"entries": [
+"Tags: Dark","Great plumes of cursed fire pour out from the tip of your wand rampaging into shapes of beasts and incinerating anything in their path. Upon casting the area of the fiendfyre is one 10-foot cube with the number of 10-foot cubes doubling at the beginning of each of your turns. As long as concentration is maintained you can arrange any newly added cubes as you wish. Each cube must have at least one face adjacent to the face of another cube. Each creature in the area must make a Dexterity saving throw. It takes 5d10 fire damage on a failed save or half as much damage on a successful one. A creature takes the same damage when it enters the area for the first time on a turn or ends its turn there.","Upon reaching 8 cubes you must make a DC15 Constitution saving throw to maintain concentration at the beginning of each of your turns. If your concentration is broken after 4 cubes of fiendfyre are active the spell doesn't end and rages out of control. The fiendfyre will continue to double at the beginning of each round until the end of its duration. If you decide to end the spell while you still have concentration the spell ends as normal and all fiendfyre disappears.","The fiendfyre damages objects in the area and ignites flammable objects that aren’t being worn or carried. Even magical objects and defenses are damaged or destroyed by this spell.","At Higher Levels. When you cast this spell using a spell slot of 8th level or higher the damage increases by 1d10 and the concentration DC increases by 1 for each slot level above 7th."
+],
+"damageInflict": [
+"radiant"
+],
+"savingThrow": [
+"constitution"
+],
+"areaTags": [
+"N"
+],
+"classes": {
+"fromClassList": [
+{
+"name": "Sorcerer",
+"source": "PHB"
+}
+]
+}
+}
+{
+"name": "Bombarda",
+"source": "WandsNWizards",
+"page": "57-80",
+"level": 0,
+"school": "Curse",
+"time": [
+{
+"number": 1,
+"unit": "action"
+}
+],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 60
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a wand"
+},
+"duration": [
+{
+"type": "instant"
+
+
+
+
+}
+],
+"entries": [
+"Tags: Dark","The spell blasts whatever it hits creating a localized concussive explosion upon impact. Make a ranged spell attack against a target within range. On a hit the target takes 1d10 bludgeoning damage.","This spell’s damage increases by 1d10 when you reach 5th level (2d10) 11th level (3d10) and 17th level (4d10)."
+],
+"damageInflict": [
+"radiant"
+],
+"savingThrow": [
+"constitution"
+],
+"areaTags": [
+"N"
+],
+"classes": {
+"fromClassList": [
+{
+"name": "Sorcerer",
+"source": "PHB"
+}
+]
+}
+}
+{
+"name": "Brackium Emendo",
+"source": "WandsNWizards",
+"page": "57-80",
+"level": 4,
+"school": "Healing",
+"time": [
+{
+"number": 1,
+"unit": "action"
+}
+],
+"range": {
+"type": "point",
+"distance": {
+"type": "touch"
+
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a wand"
+},
+"duration": [
+{
+"type": "instant"
+
+
+
+
+}
+],
+"entries": [
+"This spell heals a being's broken bones immediately although the process is quite painful. A being you tap with your wand regains a number of hit points equal to 5d10 + your spellcasting ability modifier and gains a level of exhaustion.","At Higher Levels. When you cast this spell using a spell slot of 5th level or higher the healing increases by 1d10 for each slot level above 4th."
+],
+"damageInflict": [
+"radiant"
+],
+"savingThrow": [
+"constitution"
+],
+"areaTags": [
+"N"
+],
+"classes": {
+"fromClassList": [
+{
+"name": "Sorcerer",
+"source": "PHB"
+}
+]
+}
+}
+{
+"name": "Cantis",
+"source": "WandsNWizards",
+"page": "57-80",
+"level": 0,
+"school": "Curse",
+"time": [
+{
+"number": 1,
+"unit": "action"
+}
+],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 60
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a wand"
+},
+"duration": [
+{
+"type": "timed",
+"duration": {
+"type": "round",
+"amount": "1"
+}
+}
+],
+"entries": [
+"When struck by this spell a being can't help but belt out a couple of lines from the first song that comes to mind. Make a ranged spell attack against a being within range. On a hit a being must cast a spell non-verbally until the end of its next turn. If it tries to cast a spell verbally it must first succeed on an Intelligence saving throw or the casting fails and the spell is wasted."
+],
+"damageInflict": [
+"radiant"
+],
+"savingThrow": [
+"constitution"
+],
+"areaTags": [
+"N"
+],
+"classes": {
+"fromClassList": [
+{
+"name": "Sorcerer",
+"source": "PHB"
+}
+]
+}
+}
+{
+"name": "Capacious Extremis",
+"source": "WandsNWizards",
+"page": "57-80",
+"level": 4,
+"school": "Charm",
+"time": [
+{
+"number": 10,
+"unit": "minute"
+}
+],
+"range": {
+"type": "point",
+"distance": {
+"type": "touch"
+
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a wand"
+},
+"duration": [
+{
+"type": "permanent",
+"ends": [
+"dispel"
+
+]
+}
+],
+"entries": [
+"Tags: School of Magic - Charms","Transform an ordinary small bag/pouch into a Handy Haversack's central pouch a backpack into a Bag of Holding or a trunk’s internal capacity into a Bag of Holding with:","An opening of 3 feet long and 2 feet wide.","Internal size of 6 feet long 4 feet wide and 4 feet deep.","A limit of 1000 pounds and 150 cubic feet."
+],
+"damageInflict": [
+"radiant"
+],
+"savingThrow": [
+"constitution"
+],
+"areaTags": [
+"N"
+],
+"classes": {
+"fromClassList": [
+{
+"name": "Sorcerer",
+"source": "PHB"
+}
+]
+}
+}
+{
+"name": "Capto",
+"source": "WandsNWizards",
+"page": "57-80",
+"level": 0,
+"school": "Charm",
+"time": [
+{
+"number": 1,
+"unit": "action"
+}
+],
+"range": {
+"type": "point",
+"distance": {
+"type": "touch"
+
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a wand"
+},
+"duration": [
+{
+"type": "permanent",
+"ends": [
+"dispel"
+
+]
+}
+],
+"entries": [
+"The object becomes quite easily held in one hand almost sticky until the holder willfully lets go."
+],
+"damageInflict": [
+"radiant"
+],
+"savingThrow": [
+"constitution"
+],
+"areaTags": [
+"N"
+],
+"classes": {
+"fromClassList": [
+{
+"name": "Sorcerer",
+"source": "PHB"
+}
+]
+}
+}
+{
+"name": "Carpe Retractum",
+"source": "WandsNWizards",
+"page": "57-80",
+"level": 0,
+"school": "Charm",
+"time": [
+{
+"number": 1,
+"unit": "action"
+}
+],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 60
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a wand"
+},
+"duration": [
+{
+"type": "timed",
+"duration": {
+"type": "round",
+"amount": "1"
+}
+}
+],
+"entries": [
+"A bond of light shoots out from the caster and attaches to the target and then retracts pulling each side 10 feet closer. If one side doesn't move the other side moves 20 feet. After retracting the bond of light keeps the caster and target attached for the duration.","At Higher Levels. When you cast this spell using a spell slot of 1st level or higher the range and pulling effect both increase by 10 feet for each slot level above 0."
+],
+"damageInflict": [
+"radiant"
+],
+"savingThrow": [
+"constitution"
+],
+"areaTags": [
+"N"
+],
+"classes": {
+"fromClassList": [
+{
+"name": "Sorcerer",
+"source": "PHB"
+}
+]
+}
+}
+{
+"name": "Cave Inimicum",
+"source": "WandsNWizards",
+"page": "57-80",
+"level": 5,
+"school": "Charm",
+"time": [
+{
+"number": 1,
+"unit": "minute"
+}
+],
+"range": {
+"type": "sphere",
+"distance": {
+"type": "feet",
+"amount": 10
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a wand"
+},
+"duration": [
+{
+"type": "timed",
+"duration": {
+"type": "hour",
+"amount": "1"
+}
+}
+],
+"entries": [
+"Tags: Defensive","A forcefield-like dome forms a perimeter around the caster that filters vision of anything or anyone designated by the caster rendering those objects infallibly invisible. The dome is undetectable from the outside but slightly visible from the inside like a wavering glass barrier. Anyone can move through the field freely to see the hidden contents.","At Higher Levels. When you cast this spell using a spell slot of 6th level or higher you may select or stack one of the following effects for each slot level above 5th.","Increase the spell radius by 20 feet.","Increase the duration to 8 hours.","Add the ability to completely block sounds.","Add the ability to completely block smells."
+],
+"damageInflict": [
+"radiant"
+],
+"savingThrow": [
+"constitution"
+],
+"areaTags": [
+"N"
+],
+"classes": {
+"fromClassList": [
+{
+"name": "Sorcerer",
+"source": "PHB"
+}
+]
+}
+}
+{
+"name": "Cistem Aperio",
+"source": "WandsNWizards",
+"page": "57-80",
+"level": 0,
+"school": "Charm",
+"time": [
+{
+"number": 1,
+"unit": "action"
+}
+],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 60
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a wand"
+},
+"duration": [
+{
+"type": "instant"
+
+
+
+
+}
+],
+"entries": [
+"Choose a box chest or another container that you can see within range that uses mundane or magical means to prevent access.","A target that is held shut by a mundane lock or that is stuck or chained becomes unlocked unstuck or unchained. If the object has multiple locks only one of them is unlocked.","If you choose a target that is held shut with Colloportus that spell is dispelled.","When you cast the spell the mechanism noisily turns and unlocks. This noise emanates from the target object and is audible from as far away as 100 feet."
+],
+"damageInflict": [
+"radiant"
+],
+"savingThrow": [
+"constitution"
+],
+"areaTags": [
+"N"
+],
+"classes": {
+"fromClassList": [
+{
+"name": "Sorcerer",
+"source": "PHB"
+}
+]
+}
+}
+{
+"name": "Colloportus",
+"source": "WandsNWizards",
+"page": "57-80",
+"level": 0,
+"school": "Charm",
+"time": [
+{
+"number": 1,
+"unit": "action"
+}
+],
+"range": {
+"type": "point",
+"distance": {
+"type": "touch"
+
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a wand"
+},
+"duration": [
+{
+"type": "permanent",
+"ends": [
+"dispel"
+
+]
+}
+],
+"entries": [
+"You touch a closed door window gate chest or other entryway and it becomes locked for the duration. It is impassable until it is broken or the spell is dispelled or suppressed.","While affected by this spell the object is more difficult to break or force open; the DC to break it or pick any locks on it increases by 10."
+],
+"damageInflict": [
+"radiant"
+],
+"savingThrow": [
+"constitution"
+],
+"areaTags": [
+"N"
+],
+"classes": {
+"fromClassList": [
+{
+"name": "Sorcerer",
+"source": "PHB"
+}
+]
+}
+}
+{
+"name": "Colloshoo",
+"source": "WandsNWizards",
+"page": "57-80",
+"level": 1,
+"school": "Curse",
+"time": [
+{
+"number": 1,
+"unit": "action"
+}
+],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 90
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a wand"
+},
+"duration": [
+{
+"type": "timed",
+"duration": {
+"type": "minute",
+"amount": "1"
+}
+}
+],
+"entries": [
+"This creative hex sticks a being's shoes to the ground rooting them in place. Choose a being wearing shoes within range to make a Dexterity saving throw. On a failed save the target is restrained for the duration. If the saving throw fails by 5 or more the target is knocked prone as well. The target can use its action to take off its shoes or make a Strength check against your spell save DC. On a success it pulls its shoes free."
+],
+"damageInflict": [
+"radiant"
+],
+"savingThrow": [
+"constitution"
+],
+"areaTags": [
+"N"
+],
+"classes": {
+"fromClassList": [
+{
+"name": "Sorcerer",
+"source": "PHB"
+}
+]
+}
+}
+{
+"name": "Colovaria",
+"source": "WandsNWizards",
+"page": "57-80",
+"level": 0,
+"school": "Charm",
+"time": [
+{
+"number": 1,
+"unit": "action"
+}
+],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 30
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a wand"
+},
+"duration": [
+{
+"type": "timed",
+"duration": {
+"type": "hour",
+"amount": "1"
+}
+}
+],
+"entries": [
+"You change the color of any target within range that lasts for the duration to any desired complexity. The color may only be reverted by dispelling the charm.","Physical interaction with the object reveals that the object has retained its original texture and material but its color has truly changed."
+],
+"damageInflict": [
+"radiant"
+],
+"savingThrow": [
+"constitution"
+],
+"areaTags": [
+"N"
+],
+"classes": {
+"fromClassList": [
+{
+"name": "Sorcerer",
+"source": "PHB"
+}
+]
+}
+}
+{
+"name": "Confringo",
+"source": "WandsNWizards",
+"page": "57-80",
+"level": 3,
+"school": "Curse",
+"time": [
+{
+"number": 1,
+"unit": "action"
+}
+],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 90
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a wand"
+},
+"duration": [
+{
+"type": "instant"
+
+
+
+
+}
+],
+"entries": [
+"Tags: Dark","A tiny ball of fire flashes from your wand to a point you choose within range and then explodes into a fiery blast on impact. Each creature in a 10-foot-radius sphere centered on that point must make a Dexterity saving throw. A target takes 8d6 fire damage on a failed save or half as much damage on a successful one. The fire spreads around corners. It ignites flammable objects in the area that aren’t being worn or carried.","At Higher Levels. When you cast this spell using a spell slot of 4th level or higher the damage increases by 1d6 and the radius increases by 5 feet for each slot level above 3rd."
+],
+"damageInflict": [
+"radiant"
+],
+"savingThrow": [
+"constitution"
+],
+"areaTags": [
+"N"
+],
+"classes": {
+"fromClassList": [
+{
+"name": "Sorcerer",
+"source": "PHB"
+}
+]
+}
+}
+{
+"name": "Confundo",
+"source": "WandsNWizards",
+"page": "57-80",
+"level": 4,
+"school": "Charm",
+"time": [
+{
+"number": 1,
+"unit": "action"
+}
+],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 90
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a wand"
+},
+"duration": [
+{
+"type": "timed",
+"duration": {
+"type": "minute",
+"amount": "1"
+}
+}
+],
+"entries": [
+"The Confundus Charm is a particularly powerful charm that leaves anything confused forgetful and impressionable often causing people to wander off absent-mindedly. If the target is an object that operates or functions on its own it will operate erratically malfunction or completely shut down. This spell has no effect on a completely inanimate objects that entirely depend on external manipulation.","If the target is a creature you choose within range it must succeed on a Wisdom saving throw when you cast this spell or be affected by it. An affected target can’t take reactions and if not distracted with something you roll a d10. If you roll 1-8 the creature must use all its movement to move in a random direction. To determine the direction assign a direction to each number 1-8. If you roll a 9-10 the creature doesn't move. Whether it moves or not the creature doesn’t take an action this turn.","If desired you can suggest a course of activity (limited to a sentence or two) at the time of casting and magically influence a creature you can see within range that can hear and understand you. Creatures that can’t be charmed are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking the creature to directly hurt itself or its allies will have no effect. The suggested course of action can continue for the entire duration. You can also specify conditions that will trigger a special activity during the duration. For example you might suggest that a wizard hug the next blast-ended skrewt he sees. If the condition isn’t met before the spell expires the activity isn’t performed.","At the end of each of its turns an affected target can make a Wisdom saving throw. If it succeeds the spell's effects end for that target.","At Higher Levels. When you cast this spell using a spell slot of 5th level or higher you can target one additional target for each slot level above 4th. The targets must be within 30 feet of each other when you target them."
+],
+"damageInflict": [
+"radiant"
+],
+"savingThrow": [
+"constitution"
+],
+"areaTags": [
+"N"
+],
+"classes": {
+"fromClassList": [
+{
+"name": "Sorcerer",
+"source": "PHB"
+}
+]
+}
+}
+{
+"name": "Conjunctivia",
+"source": "WandsNWizards",
+"page": "57-80",
+"level": 3,
+"school": "Curse",
+"time": [
+{
+"number": 1,
+"unit": "action"
+}
+],
+"range": {
+"type": "point",
+"distance": {
+"type": "feet",
+"amount": 60
+}
+},
+"components": {
+"v": true,
+"s": true,
+"m": "a wand"
+},
+"duration": [
+{
+"type": "timed",
+"duration": {
+"type": "minute",
+"amount": "1"
+}
+}
+],
+"entries": [
+"When struck by this curse a creature's eyes to become irritated and painful swelling shut. Make a ranged spell attack against a creature within range. On a hit the target takes 2d8 necrotic damage and is blinded for the duration. At the end of each of its turns the target can make a Constitution saving throw. On a success the spell ends. Creatures that are normally magically resistant are vulnerable to this spell.","At Higher Levels. When you cast this spell using a spell slot of 4th level or higher the damage increases by 1d8 for each slot level above 3rd."
+],
+"damageInflict": [
+"radiant"
+],
+"savingThrow": [
+"constitution"
+],
+"areaTags": [
+"N"
+],
+"classes": {
+"fromClassList": [
+{
+"name": "Sorcerer",
+"source": "PHB"
+}
+]
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 "type": "timed",
 "duration": {
 "type": "hour",
