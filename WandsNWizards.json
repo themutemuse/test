@@ -104,7 +104,7 @@
 "source": "PHB"
 }
 ]
-}
+}, "meta": { "ritual": true }
 },
 {
 "name": "Accio",
@@ -374,7 +374,7 @@
 "source": "PHB"
 }
 ]
-}
+}, "meta": { "ritual": true }
 },
 {
 "name": "Arania Exumai",
@@ -1346,7 +1346,7 @@
 "source": "PHB"
 }
 ]
-}
+}, "meta": { "ritual": true }
 },
 {
 "name": "Conjunctivia",
@@ -1670,7 +1670,7 @@
 "source": "PHB"
 }
 ]
-}
+}, "meta": { "ritual": true }
 },
 {
 "name": "Depulso",
@@ -1832,7 +1832,7 @@
 "source": "PHB"
 }
 ]
-}
+}, "meta": { "ritual": true }
 },
 {
 "name": "Digitus Wibbly",
@@ -2156,7 +2156,7 @@
 "source": "PHB"
 }
 ]
-}
+}, "meta": { "ritual": true }
 },
 {
 "name": "Engorgio",
@@ -2210,7 +2210,7 @@
 "source": "PHB"
 }
 ]
-}
+}, "meta": { "ritual": true }
 },
 {
 "name": "Episkey",
@@ -2264,7 +2264,7 @@
 "source": "PHB"
 }
 ]
-}
+}, "meta": { "ritual": true }
 },
 {
 "name": "Epoximise",
@@ -2426,7 +2426,7 @@
 "source": "PHB"
 }
 ]
-}
+}, "meta": { "ritual": true }
 },
 {
 "name": "Expecto Patronum",
@@ -2480,7 +2480,7 @@
 "source": "PHB"
 }
 ]
-}
+}, "meta": { "ritual": true }
 },
 {
 "name": "Expelliarmus",
@@ -3182,7 +3182,7 @@
 "source": "PHB"
 }
 ]
-}
+}, "meta": { "ritual": true }
 },
 {
 "name": "Genu Recurvatum",
@@ -3776,7 +3776,7 @@
 "source": "PHB"
 }
 ]
-}
+}, "meta": { "ritual": true }
 },
 {
 "name": "Incarcerous",
@@ -3830,7 +3830,7 @@
 "source": "PHB"
 }
 ]
-}
+}, "meta": { "ritual": true }
 },
 {
 "name": "Incendio",
@@ -3884,7 +3884,7 @@
 "source": "PHB"
 }
 ]
-}
+}, "meta": { "ritual": true }
 },
 {
 "name": "Incendio Glacia",
@@ -4046,7 +4046,7 @@
 "source": "PHB"
 }
 ]
-}
+}, "meta": { "ritual": true }
 },
 {
 "name": "Langlock",
@@ -4316,7 +4316,7 @@
 "source": "PHB"
 }
 ]
-}
+}, "meta": { "ritual": true }
 },
 {
 "name": "Locomotor Mortis",
@@ -4478,7 +4478,7 @@
 "source": "PHB"
 }
 ]
-}
+}, "meta": { "ritual": true }
 },
 {
 "name": "Lumos/Nox",
@@ -4694,7 +4694,7 @@
 "source": "PHB"
 }
 ]
-}
+}, "meta": { "ritual": true }
 },
 {
 "name": "Molliare",
@@ -5018,7 +5018,7 @@
 "source": "PHB"
 }
 ]
-}
+}, "meta": { "ritual": true }
 },
 {
 "name": "Nullum Effugium",
@@ -5180,7 +5180,7 @@
 "source": "PHB"
 }
 ]
-}
+}, "meta": { "ritual": true }
 },
 {
 "name": "Omnifracto",
@@ -5612,7 +5612,7 @@
 "source": "PHB"
 }
 ]
-}
+}, "meta": { "ritual": true }
 },
 {
 "name": "Periculum/Verdimillious",
@@ -6098,7 +6098,7 @@
 "source": "PHB"
 }
 ]
-}
+}, "meta": { "ritual": true }
 },
 {
 "name": "Reducto",
@@ -6422,7 +6422,7 @@
 "source": "PHB"
 }
 ]
-}
+}, "meta": { "ritual": true }
 },
 {
 "name": "Repello Inimicum",
@@ -6476,7 +6476,7 @@
 "source": "PHB"
 }
 ]
-}
+}, "meta": { "ritual": true }
 },
 {
 "name": "Repello Muggletum",
@@ -7016,7 +7016,7 @@
 "source": "PHB"
 }
 ]
-}
+}, "meta": { "ritual": true }
 },
 {
 "name": "Slugulus Eructo",
@@ -7610,7 +7610,7 @@
 "source": "PHB"
 }
 ]
-}
+}, "meta": { "ritual": true }
 },
 {
 "name": "Vulnera Sanentur",
