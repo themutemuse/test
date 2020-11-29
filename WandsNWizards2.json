@@ -7834,18 +7834,4 @@
 }
 }
 ]
-      "roll20Spell": [
-		{
-			"name": "Iceball",
-			"source": "json_in_meta",
-			"data": {
- 				"Save": "Dexterity",
-				"Damage": "6d8,
-				"Damage Type": "Cold",
-				"Save Success": "Half damage",
-				"Higher Spell Slot Die": "d8",
-				"Higher Spell Slot Dice": "1"
-			}
-		}
-	]
 }
