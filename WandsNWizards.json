@@ -439,8 +439,9 @@
 "time": [
 {
 "number": 1,
-"unit": "reaction"
-}
+"unit": "reaction",
+			"condition": "which you take when you or a creature within 60 feet of you falls"
+		}
 ],
 "range": {
 "type": "point",
@@ -4058,7 +4059,12 @@
 {
 "number": 1,
 "unit": "action"
-}
+},
+		{
+			"number": 1,
+			"unit": "reaction",
+			"condition": "hich you take when you see a creature within 60 feet of you casting a spell"
+		}
 ],
 "range": {
 "type": "point",
@@ -5894,7 +5900,12 @@
 {
 "number": 1,
 "unit": "action"
-}
+},
+		{
+			"number": 1,
+			"unit": "reaction",
+			"condition": "which you take when you are hit by an attack"
+		}
 ],
 "range": {
 "type": "point",
@@ -5948,7 +5959,12 @@
 {
 "number": 1,
 "unit": "action"
-}
+},
+		{
+			"number": 1,
+			"unit": "reaction",
+			"condition": "which you take when you are hit by an attack"
+		}
 ],
 "range": {
 "type": "point",
@@ -7190,7 +7206,12 @@
 {
 "number": 1,
 "unit": "action"
-}
+},
+		{
+			"number": 1,
+			"unit": "reaction",
+			"condition": "which you take when a collision occurs within 30 feet"
+		}
 ],
 "range": {
 "type": "point",
