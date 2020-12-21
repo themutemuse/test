@@ -655,7 +655,7 @@
 			],
 			"entries": [
 				"Tags: Dark",
-				"The spell blasts whatever it hits creating a localized concussive explosion upon impact. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a target within range. On a hit the target takes [[[[round((@{level}+1)/6+0.5)]]d10+@{global_damage_mod_roll}[GlobalAtkMod]]] bludgeoning damage."
+				"The spell blasts whatever it hits creating a localized concussive explosion upon impact. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a target within range. On a hit the target takes [[[[round((@{level}+1)/6+0.5)]]d10+@{global_damage_mod_roll}[GlobalAtkDmg]]] bludgeoning damage."
 			],
 			"damageInflict": [
 				"radiant"
