@@ -486,7 +486,7 @@
 ],
 "entries": [
 "Tags: Dark - Unforgivable Curse",
-"The most dangerous of the Unforgivables Avada Kedavra channels the caster's pure hatred into an unblockable spell that kills whatever it strikes. Make a ranged Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a target within range. On a hit and if the target has 100 hit points or fewer it dies or is destroyed. Otherwise the spell has no effect. Defensive spells have no effect against this spell and it can only be blocked by physical objects.",
+"The most dangerous of the Unforgivables Avada Kedavra channels the caster's pure hatred into an unblockable spell that kills whatever it strikes. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a target within range. On a hit and if the target has 100 hit points or fewer it dies or is destroyed. Otherwise the spell has no effect. Defensive spells have no effect against this spell and it can only be blocked by physical objects.",
 "***At Higher Levels.*** When you cast this spell using a spell slot of 9th level there is no hit point restriction."
 ],
 "damageInflict": [
@@ -655,7 +655,7 @@
 ],
 "entries": [
 "Tags: Dark",
-"The spell blasts whatever it hits creating a localized concussive explosion upon impact. Make a ranged Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a target within range. On a hit the target takes [[[round((@{level}+1)/6+0.5)]]d10](!&amp;&num;13&semi;/r [[round((@{level}+1)/6+0.5)]]d10) bludgeoning damage."
+"The spell blasts whatever it hits creating a localized concussive explosion upon impact. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a target within range. On a hit the target takes [[[round((@{level}+1)/6+0.5)]]d10](!&amp;&num;13&semi;/r [[round((@{level}+1)/6+0.5)]]d10) bludgeoning damage."
 ],
 "damageInflict": [
 "radiant"
@@ -759,7 +759,7 @@
 }
 ],
 "entries": [
-"When struck by this spell a being can't help but belt out a couple of lines from the first song that comes to mind. Make a ranged Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a being within range. On a hit a being must cast a spell non-verbally until the end of its next turn. If it tries to cast a spell verbally it must first succeed on an Intelligence saving throw or the casting fails and the spell is wasted."
+"When struck by this spell a being can't help but belt out a couple of lines from the first song that comes to mind. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a being within range. On a hit a being must cast a spell non-verbally until the end of its next turn. If it tries to cast a spell verbally it must first succeed on an Intelligence saving throw or the casting fails and the spell is wasted."
 ],
 "damageInflict": [
 "radiant"
@@ -1366,7 +1366,7 @@
 }
 ],
 "entries": [
-"When struck by this curse a creature's eyes to become irritated and painful swelling shut. Make a ranged Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit the target takes [2d8](!&amp;&num;13&semi;/r 2d8) necrotic damage and is blinded for the duration. At the end of each of its turns the target can make a Constitution saving throw. On a success the spell ends. Creatures that are normally magically resistant are vulnerable to this spell.",
+"When struck by this curse a creature's eyes to become irritated and painful swelling shut. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit the target takes [2d8](!&amp;&num;13&semi;/r 2d8) necrotic damage and is blinded for the duration. At the end of each of its turns the target can make a Constitution saving throw. On a success the spell ends. Creatures that are normally magically resistant are vulnerable to this spell.",
 "***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher the damage increases by [1d8](!&amp;&num;13&semi;/r 1d8) for each slot level above 3rd."
 ],
 "damageInflict": [
@@ -1581,7 +1581,7 @@
 }
 ],
 "entries": [
-"A target's front two teeth grow abnormally long protruding downwards past its chin. Make a ranged Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit it takes [2d8](!&amp;&num;13&semi;/r 2d8) psychic damage and has disadvantage on the next attack roll it makes before the end of its next turn.",
+"A target's front two teeth grow abnormally long protruding downwards past its chin. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit it takes [2d8](!&amp;&num;13&semi;/r 2d8) psychic damage and has disadvantage on the next attack roll it makes before the end of its next turn.",
 "***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher the damage is increased by [1d8](!&amp;&num;13&semi;/r 1d8) for each slot level above 1st."
 ],
 "damageInflict": [
@@ -1738,7 +1738,7 @@
 }
 ],
 "entries": [
-"This weak jinx is a classic training spell between duelists a startling sting on impact. Make a ranged Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit it takes [1d6](!&amp;&num;13&semi;/r 1d6) force damage and it can't take reactions until the start of its next turn.",
+"This weak jinx is a classic training spell between duelists a startling sting on impact. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit it takes [1d6](!&amp;&num;13&semi;/r 1d6) force damage and it can't take reactions until the start of its next turn.",
 "The spell's damage increases by [1d6](!&amp;&num;13&semi;/r 1d6) when you reach 5th level ([2d6](!&amp;&num;13&semi;/r 2d6)) 11th level ([3d6](!&amp;&num;13&semi;/r 3d6)) and 17th level ([4d6](!&amp;&num;13&semi;/r 4d6))."
 ],
 "damageInflict": [
@@ -1847,7 +1847,7 @@
 }
 ],
 "entries": [
-"A popular dueling spell among young wizards at Hogwarts this jinx makes a being's fingers numb and relaxed. Make a ranged Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit the target has disadvantage on attack rolls for the duration. At the start of each of its turns the target can make a Dexterity saving throw. On a success the spell ends."
+"A popular dueling spell among young wizards at Hogwarts this jinx makes a being's fingers numb and relaxed. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit the target has disadvantage on attack rolls for the duration. At the start of each of its turns the target can make a Dexterity saving throw. On a success the spell ends."
 ],
 "damageInflict": [
 "radiant"
@@ -1902,7 +1902,7 @@
 }
 ],
 "entries": [
-"Make a ranged Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit the being or beast's size is halved in all dimensions and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category - from Medium to Small for example.",
+"Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit the being or beast's size is halved in all dimensions and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category - from Medium to Small for example.",
 "Until the spell ends the target also has disadvantage on Strength checks and Strength saving throws. The target's items or equipment also shrink to match its new size but any item dropped by an affected creature returns to normal size at once. The target deals [1d4](!&amp;&num;13&semi;/r 1d4) less damage (this can't reduce the damage below 1)."
 ],
 "damageInflict": [
@@ -2490,7 +2490,7 @@
 "The Patronus Charm is most famous for its use against dementors but a patronus can be a potent protector against other dark and dangerous creatures in the Wizarding World.",
 "Only dementors and lethifolds have been confirmed to be affected by a patronus. At the GM's discretion your patronus can interact with or harm creatures like banshees inferi or obscuri. If your GM decides a creature can be affected by a patronus the creature is susceptible to the patronus's fear effect and can be attacked and take damage from it.",
 "Even if a patronus is unable to harm a particular kind of creature its soothing presence can still protect you by preventing fear.",
-"At any time during the patronus's movement you can direct the patronus to charge into a dementor within 5 feet of it. Make a melee Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) for the patronus using your Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) modifier. On a hit the target takes [5d10](!&amp;&num;13&semi;/r 5d10) radiant damage and the patronus pushes the target up to 5 feet plus a number of feet equal to five times your spellcasting ability modifier. The patronus moves with the target to remain within 5 feet of it and does not use any movement to do so.",
+"At any time during the patronus's movement you can direct the patronus to charge into a dementor within 5 feet of it. Make a melee spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) for the patronus using your spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) modifier. On a hit the target takes [5d10](!&amp;&num;13&semi;/r 5d10) radiant damage and the patronus pushes the target up to 5 feet plus a number of feet equal to five times your spellcasting ability modifier. The patronus moves with the target to remain within 5 feet of it and does not use any movement to do so.",
 "***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher the damage increases by [1d10](!&amp;&num;13&semi;/r 1d10) and the radius of the dim light increases by 5 feet for each slot level above 3rd."
 ],
 "damageInflict": [
@@ -2544,7 +2544,7 @@
 }
 ],
 "entries": [
-"Famous for being the spell that finally defeated Voldemort in the Second Wizarding War this spell can harmlessly end duels by disarming a wizard of his wand. Make a ranged Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a being within range. On a hit you disarm the target forcing it to drop one item of your choice that it's holding. The object lands 10 feet away from it in a random direction.",
+"Famous for being the spell that finally defeated Voldemort in the Second Wizarding War this spell can harmlessly end duels by disarming a wizard of his wand. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a being within range. On a hit you disarm the target forcing it to drop one item of your choice that it's holding. The object lands 10 feet away from it in a random direction.",
 "***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher you can choose the direction the object travels and the object's distance increases by 10 feet for each slot level above 2nd."
 ],
 "damageInflict": [
@@ -3123,7 +3123,7 @@
 }
 ],
 "entries": [
-"Outbreaks of this jinx is a common occurrence when students get in fights resulting in grotesque pimples covering the victims face. Make a ranged Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a being within range. On a hit it takes [[[round((@{level}+1)/6+0.5)]]d4](!&amp;&num;13&semi;/r [[round((@{level}+1)/6+0.5)]]d4) psychic damage and has disadvantage on the next attack roll it makes before the end of its next turn. Additionally it has disadvantage on the next Charisma ability check it makes."
+"Outbreaks of this jinx is a common occurrence when students get in fights resulting in grotesque pimples covering the victims face. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a being within range. On a hit it takes [[[round((@{level}+1)/6+0.5)]]d4](!&amp;&num;13&semi;/r [[round((@{level}+1)/6+0.5)]]d4) psychic damage and has disadvantage on the next attack roll it makes before the end of its next turn. Additionally it has disadvantage on the next Charisma ability check it makes."
 ],
 "damageInflict": [
 "radiant"
@@ -3235,7 +3235,7 @@
 }
 ],
 "entries": [
-"This hex flips around a beast or being's knees forcing them to take awkward uncoordinated steps. Make a ranged Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit the target's speed is halved for the duration of the spell."
+"This hex flips around a beast or being's knees forcing them to take awkward uncoordinated steps. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit the target's speed is halved for the duration of the spell."
 ],
 "damageInflict": [
 "radiant"
@@ -3457,7 +3457,7 @@
 ],
 "entries": [
 "Tags: School of Magic - Transfiguration",
-"You create a long snaking whip of fire from the tip of your wand lashing out and coiling around a creature in range. Make a melee Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against the target. On a hit the creature takes [3d10](!&amp;&num;13&semi;/r 3d10) fire damage and is grappled for the duration. As an action the target can attempt to escape from the grapple by making a Strength or Dexterity saving throw. If successful the spell ends.",
+"You create a long snaking whip of fire from the tip of your wand lashing out and coiling around a creature in range. Make a melee spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against the target. On a hit the creature takes [3d10](!&amp;&num;13&semi;/r 3d10) fire damage and is grappled for the duration. As an action the target can attempt to escape from the grapple by making a Strength or Dexterity saving throw. If successful the spell ends.",
 "If the creature is large or smaller you can use a bonus action to pull the creature up to 10 feet closer to you.",
 "***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher the damage increases by [1d10](!&amp;&num;13&semi;/r 1d10) for each slot level above 3rd."
 ],
@@ -4019,7 +4019,7 @@
 }
 ],
 "entries": [
-"This jinxes a target's mind giving them a brief moment of disorientation. Make a ranged Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit the target takes [[[round((@{level}+1)/6+0.5)]]d6](!&amp;&num;13&semi;/r [[round((@{level}+1)/6+0.5)]]d6) psychic damage and the first time it makes a saving throw before the end of your next turn it must roll a d4 and subtract the number rolled from the save."
+"This jinxes a target's mind giving them a brief moment of disorientation. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit the target takes [[[round((@{level}+1)/6+0.5)]]d6](!&amp;&num;13&semi;/r [[round((@{level}+1)/6+0.5)]]d6) psychic damage and the first time it makes a saving throw before the end of your next turn it must roll a d4 and subtract the number rolled from the save."
 ],
 "damageInflict": [
 "radiant"
@@ -4478,7 +4478,7 @@
 }
 ],
 "entries": [
-"This will make a person's legs so unsteady and weak that they aren't able to keep their balance. Make a ranged Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a being within range. On a hit the target is knocked prone."
+"This will make a person's legs so unsteady and weak that they aren't able to keep their balance. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a being within range. On a hit the target is knocked prone."
 ],
 "damageInflict": [
 "radiant"
@@ -4859,7 +4859,7 @@
 }
 ],
 "entries": [
-"This terrifying spell transforms the victim's bogies (or boogers) into nasty green bats that crawl out of their nose and attack. Make a ranged Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a being within range. On a hit the target and any hostile creatures within 5 feet of the target take [6d4](!&amp;&num;13&semi;/r 6d4) slashing damage. At the start of the target's turn and when any hostile creature starts its turn within 5 feet of the target it takes [3d4](!&amp;&num;13&semi;/r 3d4) slashing damage. If any creature has to make a saving throw to maintain concentration because of this spell's damage the saving throw is made at disadvantage.",
+"This terrifying spell transforms the victim's bogies (or boogers) into nasty green bats that crawl out of their nose and attack. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a being within range. On a hit the target and any hostile creatures within 5 feet of the target take [6d4](!&amp;&num;13&semi;/r 6d4) slashing damage. At the start of the target's turn and when any hostile creature starts its turn within 5 feet of the target it takes [3d4](!&amp;&num;13&semi;/r 3d4) slashing damage. If any creature has to make a saving throw to maintain concentration because of this spell's damage the saving throw is made at disadvantage.",
 "***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher the initial damage increases by [2d4](!&amp;&num;13&semi;/r 2d4) for each slot level above 4th."
 ],
 "damageInflict": [
@@ -5790,7 +5790,7 @@
 }
 ],
 "entries": [
-"This spell makes a being's arms and legs snap together and it will fall down stiff as a board. Make a ranged Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit the target is knocked prone and paralyzed for the duration. At the end of each of its turns the target can make a Wisdom saving throw. On a success the spell ends on the target.",
+"This spell makes a being's arms and legs snap together and it will fall down stiff as a board. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit the target is knocked prone and paralyzed for the duration. At the end of each of its turns the target can make a Wisdom saving throw. On a success the spell ends on the target.",
 "***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher you can target a beast instead of a being."
 ],
 "damageInflict": [
@@ -6715,7 +6715,7 @@
 }
 ],
 "entries": [
-"This low-level dueling spell gives the recipient an intense tickling sensation. Make a ranged Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a being within range. On a hit the target will double over in laughter and become incapacitated with its speed halved until the start of your next turn."
+"This low-level dueling spell gives the recipient an intense tickling sensation. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a being within range. On a hit the target will double over in laughter and become incapacitated with its speed halved until the start of your next turn."
 ],
 "damageInflict": [
 "radiant"
@@ -6816,7 +6816,7 @@
 ],
 "entries": [
 "Tags: Dark",
-"A conjured arrow streaks toward a designated target. Make a ranged Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a target within range. On a hit the target takes [1d12](!&amp;&num;13&semi;/r 1d12) piercing damage.",
+"A conjured arrow streaks toward a designated target. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a target within range. On a hit the target takes [1d12](!&amp;&num;13&semi;/r 1d12) piercing damage.",
 "***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher you conjure one additional arrow for each slot level above 1st. You can direct the arrows at the same target or at different ones. Make a separate attack roll for each arrow."
 ],
 "damageInflict": [
@@ -6974,7 +6974,7 @@
 ],
 "entries": [
 "Tags: Dark School of Magic - Jinxes Hexes and Curses",
-"Make a ranged Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a target within range. On a hit the target must make a Constitution saving throw. On a failed save a creature takes [10d6](!&amp;&num;13&semi;/r 10d6) slashing damage and another [5d6](!&amp;&num;13&semi;/r 5d6) slashing damage at the end of its next turn. On a successful save a creature takes half the initial damage and half the damage at the end of its next turn.",
+"Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a target within range. On a hit the target must make a Constitution saving throw. On a failed save a creature takes [10d6](!&amp;&num;13&semi;/r 10d6) slashing damage and another [5d6](!&amp;&num;13&semi;/r 5d6) slashing damage at the end of its next turn. On a successful save a creature takes half the initial damage and half the damage at the end of its next turn.",
 "***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher the initial damage increases by [2d6](!&amp;&num;13&semi;/r 2d6) for each slot level above 4th."
 ],
 "damageInflict": [
@@ -7138,7 +7138,7 @@
 }
 ],
 "entries": [
-"This particularly nasty hex causes one to spit up slugs for the duration. Make a ranged Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit it takes [3d8](!&amp;&num;13&semi;/r 3d8) psychic damage and gains one level of exhaustion. If it tries to cast a spell verbally before the end of its next turn it must first succeed on a Constitution saving throw or the casting fails and the spell is wasted.",
+"This particularly nasty hex causes one to spit up slugs for the duration. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit it takes [3d8](!&amp;&num;13&semi;/r 3d8) psychic damage and gains one level of exhaustion. If it tries to cast a spell verbally before the end of its next turn it must first succeed on a Constitution saving throw or the casting fails and the spell is wasted.",
 "***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher the damage increases by [1d8](!&amp;&num;13&semi;/r 1d8) for each slot level above 2nd."
 ],
 "damageInflict": [
@@ -7353,7 +7353,7 @@
 }
 ],
 "entries": [
-"This charm is the most common dueling spell in the wizarding world harmlessly ending a duel between two wizards. Make a ranged Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a being within range. On a hit the target falls unconscious for the duration or until they are revived with rennervate.",
+"This charm is the most common dueling spell in the wizarding world harmlessly ending a duel between two wizards. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a being within range. On a hit the target falls unconscious for the duration or until they are revived with rennervate.",
 "***At Higher Levels.*** If you cast this spell using a spell slot of 3rd level or higher the duration increases to 1 hour (3rd level) or 8 hours (4th level). Alternatively when you cast this spell using a spell slot of 4th level or higher you can target a beast instead of a being for a duration of 10 minutes (4th level) 1 hour (5th level) or 8 hours (6th level)."
 ],
 "damageInflict": [
@@ -7409,7 +7409,7 @@
 }
 ],
 "entries": [
-"This entertaining jinx forces its victim to do a comic dance in place: shuffling tapping its feet and capering. Make a ranged Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a target within range. On a hit a dancing creature must use all its movement to dance without leaving its space until the end of your next turn. While the creature is affected by this spell it has disadvantage on Dexterity saving throws and attack rolls and other creatures have advantage on attack rolls against it. As an action a dancing creature makes a Wisdom saving throw to regain control of itself. On a successful save the spell ends."
+"This entertaining jinx forces its victim to do a comic dance in place: shuffling tapping its feet and capering. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a target within range. On a hit a dancing creature must use all its movement to dance without leaving its space until the end of your next turn. While the creature is affected by this spell it has disadvantage on Dexterity saving throws and attack rolls and other creatures have advantage on attack rolls against it. As an action a dancing creature makes a Wisdom saving throw to regain control of itself. On a successful save the spell ends."
 ],
 "damageInflict": [
 "radiant"
