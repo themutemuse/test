@@ -378,7 +378,7 @@
 }
 ],
 "entries": [
-"This spell blasts away spiders Acromantulas or arachnids with a cone of bright scorching light. Each spider-like creature in a 30-foot cone must make a Constitution saving throw. On a failed save a creature takes {@damage [4d6](!&amp;&num;13&semi;/r 4d6)} radiant damage and is knocked back 5 feet plus a number of feet equal to five times your spellcasting ability modifier. On a successful save it takes half as much damage and isn't knocked back.",
+"This spell blasts away spiders Acromantulas or arachnids with a cone of bright scorching light. Each spider-like creature in a 30-foot cone must make a Constitution saving throw (DC [[@{spell_save_dc}]]). On a failed save a creature takes {@damage [4d6](!&amp;&num;13&semi;/r 4d6)} radiant damage and is knocked back 5 feet plus a number of feet equal to five times your spellcasting ability modifier. On a successful save it takes half as much damage and isn't knocked back.",
 "Any non-arachnid creatures within the area of the spell is unaffected.",
 "***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher the damage increases by [1d6](!&amp;&num;13&semi;/r 1d6) and the shove distance increases by 10 feet for each slot level above 2nd."
 ],
@@ -601,7 +601,7 @@
 ],
 "entries": [
 "Tags: Dark",
-"Great plumes of cursed fire pour out from the tip of your wand rampaging into shapes of beasts and incinerating anything in their path. Upon casting the area of the fiendfyre is one 10-foot cube with the number of 10-foot cubes doubling at the beginning of each of your turns. As long as concentration is maintained you can arrange any newly added cubes as you wish. Each cube must have at least one face adjacent to the face of another cube. Each creature in the area must make a Dexterity saving throw. It takes [5d10](!&amp;&num;13&semi;/r 5d10) fire damage on a failed save or half as much damage on a successful one. A creature takes the same damage when it enters the area for the first time on a turn or ends its turn there.",
+"Great plumes of cursed fire pour out from the tip of your wand rampaging into shapes of beasts and incinerating anything in their path. Upon casting the area of the fiendfyre is one 10-foot cube with the number of 10-foot cubes doubling at the beginning of each of your turns. As long as concentration is maintained you can arrange any newly added cubes as you wish. Each cube must have at least one face adjacent to the face of another cube. Each creature in the area must make a Dexterity saving throw (DC [[@{spell_save_dc}]]). It takes [5d10](!&amp;&num;13&semi;/r 5d10) fire damage on a failed save or half as much damage on a successful one. A creature takes the same damage when it enters the area for the first time on a turn or ends its turn there.",
 "Upon reaching 8 cubes you must make a DC15 Constitution saving throw to maintain concentration at the beginning of each of your turns. If your concentration is broken after 4 cubes of fiendfyre are active the spell doesn't end and rages out of control. The fiendfyre will continue to double at the beginning of each round until the end of its duration. If you decide to end the spell while you still have concentration the spell ends as normal and all fiendfyre disappears.",
 "The fiendfyre damages objects in the area and ignites flammable objects that aren't being worn or carried. Even magical objects and defenses are damaged or destroyed by this spell.",
 "***At Higher Levels.*** When you cast this spell using a spell slot of 8th level or higher the damage increases by [1d10](!&amp;&num;13&semi;/r 1d10) and the concentration DC increases by 1 for each slot level above 7th."
@@ -1143,7 +1143,7 @@
 }
 ],
 "entries": [
-"This creative hex sticks a being's shoes to the ground rooting them in place. Choose a being wearing shoes within range to make a Dexterity saving throw. On a failed save the target is restrained for the duration. If the saving throw fails by 5 or more the target is knocked prone as well. The target can use its action to take off its shoes or make a Strength check against your spell save DC. On a success it pulls its shoes free."
+"This creative hex sticks a being's shoes to the ground rooting them in place. Choose a being wearing shoes within range to make a Dexterity saving throw (DC [[@{spell_save_dc}]]). On a failed save the target is restrained for the duration. If the saving throw fails by 5 or more the target is knocked prone as well. The target can use its action to take off its shoes or make a Strength check against your spell save DC. On a success it pulls its shoes free."
 ],
 "damageInflict": [
 "radiant"
@@ -1249,7 +1249,7 @@
 ],
 "entries": [
 "Tags: Dark",
-"A tiny ball of fire flashes from your wand to a point you choose within range and then explodes into a fiery blast on impact. Each creature in a 10-foot-radius sphere centered on that point must make a Dexterity saving throw. A target takes [8d6](!&amp;&num;13&semi;/r 8d6) fire damage on a failed save or half as much damage on a successful one. The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.",
+"A tiny ball of fire flashes from your wand to a point you choose within range and then explodes into a fiery blast on impact. Each creature in a 10-foot-radius sphere centered on that point must make a Dexterity saving throw (DC [[@{spell_save_dc}]]). A target takes [8d6](!&amp;&num;13&semi;/r 8d6) fire damage on a failed save or half as much damage on a successful one. The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.",
 "***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher the damage increases by [1d6](!&amp;&num;13&semi;/r 1d6) and the radius increases by 5 feet for each slot level above 3rd."
 ],
 "damageInflict": [
@@ -1306,9 +1306,9 @@
 ],
 "entries": [
 "The Confundus Charm is a particularly powerful charm that leaves anything confused forgetful and impressionable often causing people to wander off absent-mindedly. If the target is an object that operates or functions on its own it will operate erratically malfunction or completely shut down. This spell has no effect on a completely inanimate objects that entirely depend on external manipulation.",
-"If the target is a creature you choose within range it must succeed on a Wisdom saving throw when you cast this spell or be affected by it. An affected target can't take reactions and if not distracted with something you roll a d10. If you roll 1-8 the creature must use all its movement to move in a random direction. To determine the direction assign a direction to each number 1-8. If you roll a 9-10 the creature doesn't move. Whether it moves or not the creature doesn't take an action this turn.",
+"If the target is a creature you choose within range it must succeed on a Wisdom saving throw (DC [[@{spell_save_dc}]]) when you cast this spell or be affected by it. An affected target can't take reactions and if not distracted with something you roll a d10. If you roll 1-8 the creature must use all its movement to move in a random direction. To determine the direction assign a direction to each number 1-8. If you roll a 9-10 the creature doesn't move. Whether it moves or not the creature doesn't take an action this turn.",
 "If desired you can suggest a course of activity (limited to a sentence or two) at the time of casting and magically influence a creature you can see within range that can hear and understand you. Creatures that can't be charmed are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking the creature to directly hurt itself or its allies will have no effect. The suggested course of action can continue for the entire duration. You can also specify conditions that will trigger a special activity during the duration. For example you might suggest that a wizard hug the next blast-ended skrewt he sees. If the condition isn't met before the spell expires the activity isn't performed.",
-"At the end of each of its turns an affected target can make a Wisdom saving throw. If it succeeds the spell's effects end for that target.",
+"At the end of each of its turns an affected target can make a Wisdom saving throw (DC [[@{spell_save_dc}]]). If it succeeds the spell's effects end for that target.",
 "***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher you can target one additional target for each slot level above 4th. The targets must be within 30 feet of each other when you target them."
 ],
 "damageInflict": [
@@ -1366,7 +1366,7 @@
 }
 ],
 "entries": [
-"When struck by this curse a creature's eyes to become irritated and painful swelling shut. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit the target takes [2d8](!&amp;&num;13&semi;/r 2d8) necrotic damage and is blinded for the duration. At the end of each of its turns the target can make a Constitution saving throw. On a success the spell ends. Creatures that are normally magically resistant are vulnerable to this spell.",
+"When struck by this curse a creature's eyes to become irritated and painful swelling shut. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit the target takes [2d8](!&amp;&num;13&semi;/r 2d8) necrotic damage and is blinded for the duration. At the end of each of its turns the target can make a Constitution saving throw (DC [[@{spell_save_dc}]]). On a success the spell ends. Creatures that are normally magically resistant are vulnerable to this spell.",
 "***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher the damage increases by [1d8](!&amp;&num;13&semi;/r 1d8) for each slot level above 3rd."
 ],
 "damageInflict": [
@@ -1477,8 +1477,8 @@
 "entries": [
 "Tags: Dark - Unforgivable Curse",
 "With a single word and a heart full of hatred waves of intense pain assail one creature you can see within range. If the target has 100 hit points or fewer it is subject to crippling pain. Otherwise the spell has no effect on it.",
-"While the target is affected by crippling pain any speed it has can be no higher than 10 feet. The target also has disadvantage on attack rolls ability checks and saving throws other than Constitution saving throws. Finally if the target tries to cast a spell it must first succeed on a Constitution saving throw or the casting fails and the spell is wasted.",
-"A target suffering this pain must make a Constitution saving throw at the end of each of its turns. On a failed save the target gains one level of exhaustion."
+"While the target is affected by crippling pain any speed it has can be no higher than 10 feet. The target also has disadvantage on attack rolls ability checks and saving throws other than Constitution saving throws. Finally if the target tries to cast a spell it must first succeed on a Constitution saving throw (DC [[@{spell_save_dc}]]) or the casting fails and the spell is wasted.",
+"A target suffering this pain must make a Constitution saving throw (DC [[@{spell_save_dc}]]) at the end of each of its turns. On a failed save the target gains one level of exhaustion."
 ],
 "damageInflict": [
 "radiant"
@@ -1632,7 +1632,7 @@
 }
 ],
 "entries": [
-"You place immense downward pressure on a target. If the target is a creature it must make a Strength saving throw. On a failed save a creature takes [5d8](!&amp;&num;13&semi;/r 5d8) bludgeoning damage and is knocked prone. On a successful save the creature takes half as much damage and isn't knocked prone. If the target is a flat surface this will either create a crater or collapse the surface.",
+"You place immense downward pressure on a target. If the target is a creature it must make a Strength saving throw (DC [[@{spell_save_dc}]]). On a failed save a creature takes [5d8](!&amp;&num;13&semi;/r 5d8) bludgeoning damage and is knocked prone. On a successful save the creature takes half as much damage and isn't knocked prone. If the target is a flat surface this will either create a crater or collapse the surface.",
 "***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher the damage is increased by [1d8](!&amp;&num;13&semi;/r 1d8) for each slot level above 3rd."
 ],
 "damageInflict": [
@@ -1788,7 +1788,7 @@
 }
 ],
 "entries": [
-"An object is precisely torn or cut as if a magical blade extended from the tip of your wand. This spell was not designed to be used on creatures and only makes very shallow cuts. Choose a target that fits within a 5-foot cube. If the target is a creature it must make a Dexterity saving throw. It takes [1d8](!&amp;&num;13&semi;/r 1d8) slashing damage on a failed save or half as much damage on a successful one. This is the counterspell to incarcerous immediately ending that spell's effects.",
+"An object is precisely torn or cut as if a magical blade extended from the tip of your wand. This spell was not designed to be used on creatures and only makes very shallow cuts. Choose a target that fits within a 5-foot cube. If the target is a creature it must make a Dexterity saving throw (DC [[@{spell_save_dc}]]). It takes [1d8](!&amp;&num;13&semi;/r 1d8) slashing damage on a failed save or half as much damage on a successful one. This is the counterspell to incarcerous immediately ending that spell's effects.",
 "***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher you can target one additional creature or the cube's size increases by 5 feet for each slot level above 1st. If targeting an additional creature the targets must be within 10 feet of each other when you target them."
 ],
 "damageInflict": [
@@ -1846,7 +1846,7 @@
 }
 ],
 "entries": [
-"A popular dueling spell among young wizards at Hogwarts this jinx makes a being's fingers numb and relaxed. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit the target has disadvantage on attack rolls for the duration. At the start of each of its turns the target can make a Dexterity saving throw. On a success the spell ends."
+"A popular dueling spell among young wizards at Hogwarts this jinx makes a being's fingers numb and relaxed. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit the target has disadvantage on attack rolls for the duration. At the start of each of its turns the target can make a Dexterity saving throw (DC [[@{spell_save_dc}]]). On a success the spell ends."
 ],
 "damageInflict": [
 "radiant"
@@ -2134,7 +2134,7 @@
 ],
 "entries": [
 "You conjure up a swirling sphere of water with a 5-foot radius at a point you can see within range. The sphere can hover but no more than 10 feet off the ground. The sphere remains for the spell's duration.",
-"Any creature in the sphere's space must make a Strength saving throw. On a successful save a creature is ejected from that space to the nearest unoccupied space of the creature's choice outside the sphere. A huge or larger creature succeeds on the saving throw automatically and a large or smaller creature can choose to fail it. On a failed save a creature is restrained by the sphere and is engulfed by the swirling bubble of water. At the end of each of its turns a restrained target can repeat the saving throw ending the effect on itself on a success.",
+"Any creature in the sphere's space must make a Strength saving throw (DC [[@{spell_save_dc}]]). On a successful save a creature is ejected from that space to the nearest unoccupied space of the creature's choice outside the sphere. A huge or larger creature succeeds on the saving throw automatically and a large or smaller creature can choose to fail it. On a failed save a creature is restrained by the sphere and is engulfed by the swirling bubble of water. At the end of each of its turns a restrained target can repeat the saving throw ending the effect on itself on a success.",
 "The sphere can restrain as many as four Medium or smaller creatures or one large creature. If the sphere restrains a creature that causes it to exceed this capacity a random creature that was already restrained by the sphere falls out of it and lands prone in a space within 5 feet of it.",
 "As an action you can move the sphere up to 30 feet in a straight line. If it moves over a pit a cliff or other drop-off it safely descends until it is hovering 10 feet above the ground. Any creature restrained by the sphere moves with it. You can ram the sphere into creatures forcing them to make the saving throw.",
 "When the spell ends the sphere falls to the ground and extinguishes all normal flames within 30 feet of it. Any creature restrained by the sphere is knocked prone in the space where it falls. The water then vanishes."
@@ -2193,7 +2193,7 @@
 }
 ],
 "entries": [
-"You cause a creature or an object you can see within range to grow larger or smaller for the duration. Choose either a creature or an object that is neither worn nor carried. If the target is unwilling it can make a Constitution saving throw. On a success the spell has no effect.",
+"You cause a creature or an object you can see within range to grow larger or smaller for the duration. Choose either a creature or an object that is neither worn nor carried. If the target is unwilling it can make a Constitution saving throw (DC [[@{spell_save_dc}]]). On a success the spell has no effect.",
 "The target's size doubles in all dimensions and its weight is multiplied by eight. This growth increases its size by one category - from Medium to Large for example. If there isn't enough room for the target to double its size the creature or object attains the maximum possible size in the space available. Until the spell ends the target also has advantage on Strength checks and Strength saving throws. The target's items and equipment also grow to match its new size. While enlarged the target deals [1d4](!&amp;&num;13&semi;/r 1d4) extra damage."
 ],
 "damageInflict": [
@@ -2413,7 +2413,7 @@
 ],
 "entries": [
 "A creature of your choice that you can see within range becomes quite cheerful. For the next 10 minutes the target creature has advantage on any saving throw against becoming frightened.",
-"If concentration is maintained for one whole round the creature perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a Wisdom saving throw or fall prone becoming incapacitated and unable to stand up for the duration. A creature with an Intelligence score of 5 or less isn't affected.",
+"If concentration is maintained for one whole round the creature perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a Wisdom saving throw (DC [[@{spell_save_dc}]]) or fall prone becoming incapacitated and unable to stand up for the duration. A creature with an Intelligence score of 5 or less isn't affected.",
 "At the end of each of its turns and each time it takes damage the target can make another Wisdom saving throw. The target has advantage on the saving throw if it's triggered by damage. On a success the spell ends."
 ],
 "damageInflict": [
@@ -2480,7 +2480,7 @@
 "Remember that a frightened creature has disadvantage on ability checks including this one. Your GM can allow you to spend Inspiration to automatically succeed on this check. Your character might bring forth a powerful childhood memory in their time of need.",
 "On a success you cast the spell. On a failure you can only conjure an incorporeal patronus but if you fail the check by 5 or more the spell fails entirely.",
 "At the end of your turn if you are frightened or there are one or more dementors within 60 feet of you while concentrating on this spell you must repeat the ability check. On a failure your patronus vanishes and the spell ends.",
-"A patronus sheds light in a radius around it. You and friendly creatures can't be frightened while in your patronus's light. A dementor that starts its turn within this light or enters the light for the first time on a turn must succeed on a Wisdom saving throw or become frightened of the patronus until the start of its next turn (this fear ignores any immunity to the frightened condition). While frightened the dementor must take the Dash action on its turn and move away from the patronus by the safest available route until it leaves the light.",
+"A patronus sheds light in a radius around it. You and friendly creatures can't be frightened while in your patronus's light. A dementor that starts its turn within this light or enters the light for the first time on a turn must succeed on a Wisdom saving throw (DC [[@{spell_save_dc}]]) or become frightened of the patronus until the start of its next turn (this fear ignores any immunity to the frightened condition). While frightened the dementor must take the Dash action on its turn and move away from the patronus by the safest available route until it leaves the light.",
 "Incorporeal Patronus. Your patronus takes the form of a 5-foot burst of glowing mist in an unoccupied space adjacent to you. The patronus doesn't fill its space. It sheds bright light in its space and dim light in a 5-foot radius.",
 "On subsequent turns you can move the patronus to another space adjacent to you as a bonus action. Additionally you can move it as a reaction to a dementor moving within 10 feet of you.",
 "Corporeal Patronus. Your patronus takes the form of a wispy silver animal in an unoccupied space that you can see within range. The patronus doesn't fill its space. It has no hit points and is immune to all damage but can be targeted by another spell that affects magic such as finite incantatem. The patronus sheds bright light in a 10-foot radius and dim light for an additional 10 feet.",
@@ -2594,7 +2594,7 @@
 }
 ],
 "entries": [
-"The spell shoots out from your wand and a wave of thunderous force sweeps out from a point of your choice within range. Each creature in a 10-foot-radius sphere centered on that point must make a Constitution saving throw. On a failed save a creature takes [4d8](!&amp;&num;13&semi;/r 4d8) thunder damage and is pushed 10 feet away from that point. On a successful save the creature takes half as much damage and isn't pushed. In addition unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from that point by the spell's effect and the spell emits a thunderous boom audible out to 100 feet.",
+"The spell shoots out from your wand and a wave of thunderous force sweeps out from a point of your choice within range. Each creature in a 10-foot-radius sphere centered on that point must make a Constitution saving throw (DC [[@{spell_save_dc}]]). On a failed save a creature takes [4d8](!&amp;&num;13&semi;/r 4d8) thunder damage and is pushed 10 feet away from that point. On a successful save the creature takes half as much damage and isn't pushed. In addition unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from that point by the spell's effect and the spell emits a thunderous boom audible out to 100 feet.",
 "***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher the damage increases by [1d8](!&amp;&num;13&semi;/r 1d8) for each slot level above 3rd."
 ],
 "damageInflict": [
@@ -2961,7 +2961,7 @@
 }
 ],
 "entries": [
-"The spell feels like a very heavy blow sharply throwing a creature from its standing position to the ground. Choose a being you can see within range to make a Strength saving throw. On a failed save a creature takes [2d10](!&amp;&num;13&semi;/r 2d10) bludgeoning damage is knocked back a number of feet equal to five times your spellcasting ability modifier and is knocked prone. On a successful save the creature takes half as much damage is knocked back 5 feet and isn't knocked prone.",
+"The spell feels like a very heavy blow sharply throwing a creature from its standing position to the ground. Choose a being you can see within range to make a Strength saving throw (DC [[@{spell_save_dc}]]). On a failed save a creature takes [2d10](!&amp;&num;13&semi;/r 2d10) bludgeoning damage is knocked back a number of feet equal to five times your spellcasting ability modifier and is knocked prone. On a successful save the creature takes half as much damage is knocked back 5 feet and isn't knocked prone.",
 "***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher the damage increases by [1d10](!&amp;&num;13&semi;/r 1d10) and the knockback on a failed save increases by 5 feet for each slot level above 1st."
 ],
 "damageInflict": [
@@ -3071,7 +3071,7 @@
 ],
 "entries": [
 "A thick spray of smoke billows out from your wand filling a 15-foot cube originating from you. This smoke spreads around corners. It lasts for the duration or until strong wind disperses the smoke ending the spell. Its area is heavily obscured.",
-"When a creature enters the spell's area for the first time on a turn or starts its turn there that creature must make a Constitution saving throw. The creature takes [2d6](!&amp;&num;13&semi;/r 2d6) poison damage on a failed save or half as much damage on a successful one. Constructs and undead are immune to this damage.",
+"When a creature enters the spell's area for the first time on a turn or starts its turn there that creature must make a Constitution saving throw (DC [[@{spell_save_dc}]]). The creature takes [2d6](!&amp;&num;13&semi;/r 2d6) poison damage on a failed save or half as much damage on a successful one. Constructs and undead are immune to this damage.",
 "***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher the damage increases by [1d6](!&amp;&num;13&semi;/r 1d6) and the area increases by 5 feet for each slot level above 2nd."
 ],
 "damageInflict": [
@@ -3397,8 +3397,8 @@
 "entries": [
 "Tags: Dark",
 "You create a ringed wall of fire within range up to 20 feet in diameter 20 feet high and 10 feet thick choosing whether it's touching the ground or in the air. The wall is opaque and lasts for the duration.",
-"When the wall appears each creature within its area must make a Dexterity saving throw. On a failed save a creature takes [3d8](!&amp;&num;13&semi;/r 3d8) fire damage or half as much damage on a successful save. A creature takes the same damage when it enters the wall for the first time on a turn or ends its turn there.",
-"As an action you can send a tendril of flames lashing out at any point within 60 feet of the center of the ring. Each creature within 5 feet of that point must make a Dexterity saving throw. A creature takes [3d8](!&amp;&num;13&semi;/r 3d8) fire damage on a failed save or half as much damage on a successful one. A creature in the area of the wall and fiery burst is affected only once.",
+"When the wall appears each creature within its area must make a Dexterity saving throw (DC [[@{spell_save_dc}]]). On a failed save a creature takes [3d8](!&amp;&num;13&semi;/r 3d8) fire damage or half as much damage on a successful save. A creature takes the same damage when it enters the wall for the first time on a turn or ends its turn there.",
+"As an action you can send a tendril of flames lashing out at any point within 60 feet of the center of the ring. Each creature within 5 feet of that point must make a Dexterity saving throw (DC [[@{spell_save_dc}]]). A creature takes [3d8](!&amp;&num;13&semi;/r 3d8) fire damage on a failed save or half as much damage on a successful one. A creature in the area of the wall and fiery burst is affected only once.",
 "The spell damages objects in the area and ignites flammable objects that aren't being worn or carried.",
 "***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher the damage increases by [1d8](!&amp;&num;13&semi;/r 1d8) and the ring's radius increases by 5 feet for each slot level above 6th."
 ],
@@ -3618,7 +3618,7 @@
 }
 ],
 "entries": [
-"A powerful dueling spell this jinx alters time around one creature within range severely inhibiting its ability in combat. The target must succeed on a Wisdom saving throw or be affected by this spell for the duration.",
+"A powerful dueling spell this jinx alters time around one creature within range severely inhibiting its ability in combat. The target must succeed on a Wisdom saving throw (DC [[@{spell_save_dc}]]) or be affected by this spell for the duration.",
 "An affected target's speed is halved it takes a -2 penalty to AC and Dexterity saving throws and it can't use reactions. On its turn it can use either an action or a bonus action not both. Regardless of the creature's abilities or magic items it can't make more than one melee or ranged Attack during its turn.",
 "If the creature attempts to cast a spell with a casting time of 1 action roll a d20. On an 11 or higher the spell doesn't take effect until the creature's next turn and the creature must use its action on that turn to complete the spell. If it can't the spell is wasted.",
 "A creature affected by this spell makes another Wisdom saving throw at the end of its turn. On a successful save the effect ends for it."
@@ -3672,7 +3672,7 @@
 ],
 "entries": [
 "Tags: Dark - Unforgivable Curse",
-"When this Unforgivable Curse is cast an incredibly wonderful floating feeling comes over the victim granting them a feeling of untraceable happiness and peace. In this state the person's will is completely overridden by the caster and they will follow any command. A being of your choice within range must succeed on a Charisma saving throw at disadvantage or be charmed by you for the duration.",
+"When this Unforgivable Curse is cast an incredibly wonderful floating feeling comes over the victim granting them a feeling of untraceable happiness and peace. In this state the person's will is completely overridden by the caster and they will follow any command. A being of your choice within range must succeed on a Charisma saving throw (DC [[@{spell_save_dc}]]) at disadvantage or be charmed by you for the duration.",
 "While the target is charmed you have a telepathic link with it. You can use this telepathic link to issue commands to the creature while you are conscious (no action required) which it does its best to obey. You can specify a simple and general course of action such as Attack that creature Run over there or Fetch that object. If the creature completes the order and doesn't receive further direction from you it defends and preserves itself to the best of its ability.",
 "You can use your action to take total and precise control of the target. Until the end of your next turn the creature takes only the actions you choose and doesn't do anything that you don't allow it to do. During this time you can also cause the creature to use a reaction but this requires you to use your own reaction as well.",
 "Each time the target takes damage it makes a new Charisma saving throw at disadvantage against the spell. If the saving throw succeeds the spell ends.",
@@ -3844,7 +3844,7 @@
 }
 ],
 "entries": [
-"Black cords and ropes are conjured and wrap themselves forcefully around a target. If the target is an unwilling creature it must make a Strength saving throw. On a failed save the creature is restrained for the duration. Upon casting you can choose to anchor the ropes to the ground preventing the target from being moved by external forces.",
+"Black cords and ropes are conjured and wrap themselves forcefully around a target. If the target is an unwilling creature it must make a Strength saving throw (DC [[@{spell_save_dc}]]). On a failed save the creature is restrained for the duration. Upon casting you can choose to anchor the ropes to the ground preventing the target from being moved by external forces.",
 "The restrained creature or someone else who can reach it can use an action to make a Strength check against your spell save DC. On a success the restrained effect ends.",
 "***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher the creature is also incapacitated rendering it unable make a Strength check to escape."
 ],
@@ -3905,7 +3905,7 @@
 ],
 "entries": [
 "Tags: Dark",
-"You create a bonfire on ground that you can see within range. Until the spell ends the bonfire fills a 5-foot cube. Any creature in the bonfire's space when you cast the spell must succeed on a Dexterity saving throw. It takes [2d6](!&amp;&num;13&semi;/r 2d6) fire damage on a failed save or half as much damage on a successful one. A creature must also make the saving throw when it moves into the bonfire's space for the first time on a turn or ends its turn there.",
+"You create a bonfire on ground that you can see within range. Until the spell ends the bonfire fills a 5-foot cube. Any creature in the bonfire's space when you cast the spell must succeed on a Dexterity saving throw (DC [[@{spell_save_dc}]]). It takes [2d6](!&amp;&num;13&semi;/r 2d6) fire damage on a failed save or half as much damage on a successful one. A creature must also make the saving throw when it moves into the bonfire's space for the first time on a turn or ends its turn there.",
 "The bonfire ignites flammable objects in its area that aren't being worn or carried. If there is adequate fuel for the bonfire to burn it will continue burning after the spell ends.",
 "***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher the damage increases by [1d6](!&amp;&num;13&semi;/r 1d6) for each slot level above 2nd."
 ],
@@ -4074,7 +4074,7 @@
 ],
 "entries": [
 "Tags: School of Magic - Healing",
-"Invented by Urquhart Rackharrow this medieval remedy causes the recipient to purge and experience great abdominal pain. Choose one being that you can see within range to make a Constitution saving throw. If it fails the target's exhaustion is set to 2 levels for the duration. At the end of each of its turns the target can make a Constitution saving throw without disadvantage from exhaustion. On a success the spell ends. If the target has higher levels of exhaustion than the spell's effect the spell does not change its levels of exhaustion. If the target gains any levels of exhaustion within the duration of this spell it stacks with this spell's effect.",
+"Invented by Urquhart Rackharrow this medieval remedy causes the recipient to purge and experience great abdominal pain. Choose one being that you can see within range to make a Constitution saving throw (DC [[@{spell_save_dc}]]). If it fails the target's exhaustion is set to 2 levels for the duration. At the end of each of its turns the target can make a Constitution saving throw (DC [[@{spell_save_dc}]]) without disadvantage from exhaustion. On a success the spell ends. If the target has higher levels of exhaustion than the spell's effect the spell does not change its levels of exhaustion. If the target gains any levels of exhaustion within the duration of this spell it stacks with this spell's effect.",
 "Additionally if the target is suffering any condition or negative effects from something it ingested such as drinking a poison this spell ends those effects.",
 "***At Higher Levels.*** If you cast this spell using a spell slot of 6th level or higher the target's exhaustion is set to 3 levels (6th level) 4 levels (7th level) or 5 levels (8th level)."
 ],
@@ -4197,7 +4197,7 @@
 ],
 "entries": [
 "Tags: School of Magic - Transfiguration",
-"This spell transforms a creature with at least 1 hit point that you can see within range into the form of a rabbit. An unwilling creature must make a Wisdom saving throw to avoid the effect.",
+"This spell transforms a creature with at least 1 hit point that you can see within range into the form of a rabbit. An unwilling creature must make a Wisdom saving throw (DC [[@{spell_save_dc}]]) to avoid the effect.",
 "The transformation lasts for the duration or until the target drops to 0 hit points or dies. The target's game statistics including mental ability scores are replaced by the statistics of a rabbit. It retains its alignment and personality. The HM has the creature's statistics.",
 "The target assumes the hit points of its new form. When it reverts to its normal form the creature returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points any excess damage carries over to its normal form. As long as the excess damage doesn't reduce the creature's normal form to 0 hit points it isn't knocked unconscious.",
 "The creature is limited in the actions it can perform by the nature of its new form and it can't speak cast spells or take any other action that requires hands or speech.",
@@ -4258,7 +4258,7 @@
 "entries": [
 "Tags: School of Magic - Divination",
 "With legilimency a being's eyes become windows to their mind showing you a vision of their thoughts. For the duration you can read the thoughts of the being you've targeted with the spell as soon as eye contact can be made. After the spell effects begin eye contact does not need to be maintained.",
-"You initially learn the surface thoughts of the being - what is most on its mind in that moment. As an action you can attempt to probe deeper into its mind. If you probe deeper the target must make a Wisdom saving throw. If it fails you gain insight into its reasoning (if any) its emotional state and something that looms large in its mind (such as something it worries over loves or hates). If it succeeds the spell ends. You can probe deeper a second time forcefully pulling memories from the being's mind if it fails the second Wisdom saving throw.",
+"You initially learn the surface thoughts of the being - what is most on its mind in that moment. As an action you can attempt to probe deeper into its mind. If you probe deeper the target must make a Wisdom saving throw (DC [[@{spell_save_dc}]]). If it fails you gain insight into its reasoning (if any) its emotional state and something that looms large in its mind (such as something it worries over loves or hates). If it succeeds the spell ends. You can probe deeper a second time forcefully pulling memories from the being's mind if it fails the second Wisdom saving throw.",
 "Questions verbally directed at the target naturally shape the course of its thoughts so this spell is particularly effective as part of an interrogation. If you cast the spell verbally and the target can hear you it knows you are probing into its mind and the creature can use its action on its turn to make an Intelligence check contested by your Intelligence check. If it succeeds the spell ends.",
 "***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher the DC of the Wisdom saving throws increases by 1 for each slot level above 3rd."
 ],
@@ -4314,7 +4314,7 @@
 }
 ],
 "entries": [
-"Designed to be a non-verbal spell this jinx yanks a being's feet out from under it and dangles it in the air hanging by its ankle. A creature you can see within range must make a Wisdom saving throw or take [1d10](!&amp;&num;13&semi;/r 1d10) psychic damage and be restrained. Additionally if the target tries to cast a spell it must first succeed on a Wisdom saving throw or the casting fails and the spell is wasted."
+"Designed to be a non-verbal spell this jinx yanks a being's feet out from under it and dangles it in the air hanging by its ankle. A creature you can see within range must make a Wisdom saving throw (DC [[@{spell_save_dc}]]) or take [1d10](!&amp;&num;13&semi;/r 1d10) psychic damage and be restrained. Additionally if the target tries to cast a spell it must first succeed on a Wisdom saving throw (DC [[@{spell_save_dc}]]) or the casting fails and the spell is wasted."
 ],
 "damageInflict": [
 "radiant"
@@ -4427,7 +4427,7 @@
 }
 ],
 "entries": [
-"A common tool among bullies this curse binds a creature's legs as if they were tied together with rope. A creature you can see within range must make a Wisdom saving throw or have its speed halved and suffer disadvantage on Dexterity saving throws. Additionally each time it moves it must make a Dexterity saving throw without disadvantage from this spell or be knocked prone and take [1d4](!&amp;&num;13&semi;/r 1d4) bludgeoning damage."
+"A common tool among bullies this curse binds a creature's legs as if they were tied together with rope. A creature you can see within range must make a Wisdom saving throw (DC [[@{spell_save_dc}]]) or have its speed halved and suffer disadvantage on Dexterity saving throws. Additionally each time it moves it must make a Dexterity saving throw (DC [[@{spell_save_dc}]]) without disadvantage from this spell or be knocked prone and take [1d4](!&amp;&num;13&semi;/r 1d4) bludgeoning damage."
 ],
 "damageInflict": [
 "radiant"
@@ -4636,7 +4636,7 @@
 }
 ],
 "entries": [
-"You conjure a pumpkin around a target's head blinding and deafening it. Choose one creature that you can see within range to make a Wisdom saving throw. If it fails the target is blinded and deafened for the duration. At the end of each of its turns the target can make a Wisdom saving throw. On a success the spell ends.",
+"You conjure a pumpkin around a target's head blinding and deafening it. Choose one creature that you can see within range to make a Wisdom saving throw (DC [[@{spell_save_dc}]]). If it fails the target is blinded and deafened for the duration. At the end of each of its turns the target can make a Wisdom saving throw (DC [[@{spell_save_dc}]]). On a success the spell ends.",
 "***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher you can target one additional creature for each slot level above 3rd."
 ],
 "damageInflict": [
@@ -4691,7 +4691,7 @@
 }
 ],
 "entries": [
-"If you're hit with this spell this produces the strange sensation of your tongue being rolled up into the back of your mouth. Choose one being you can see within range. If it tries to cast a spell verbally before the end of its next turn it must first succeed on a Dexterity saving throw or the casting fails and the spell is wasted."
+"If you're hit with this spell this produces the strange sensation of your tongue being rolled up into the back of your mouth. Choose one being you can see within range. If it tries to cast a spell verbally before the end of its next turn it must first succeed on a Dexterity saving throw (DC [[@{spell_save_dc}]]) or the casting fails and the spell is wasted."
 ],
 "damageInflict": [
 "radiant"
@@ -5194,7 +5194,7 @@
 ],
 "entries": [
 "Tags: School of Magic - Charms",
-"You attempt to reshape another being's memories. One being that you can see must make a Wisdom saving throw. If you are fighting the creature it has advantage on the saving throw. On a failed save the target becomes charmed by you for the duration. The charmed target is incapacitated and unaware of its surroundings though it can still hear you. If it takes any damage or is targeted by another spell this spell ends and none of the target's memories are modified.",
+"You attempt to reshape another being's memories. One being that you can see must make a Wisdom saving throw (DC [[@{spell_save_dc}]]). If you are fighting the creature it has advantage on the saving throw. On a failed save the target becomes charmed by you for the duration. The charmed target is incapacitated and unaware of its surroundings though it can still hear you. If it takes any damage or is targeted by another spell this spell ends and none of the target's memories are modified.",
 "While this charm lasts you can affect the target's memory of an event or detail that it experienced or perceived within the last 24 hours and that lasted no more than 10 minutes. You can permanently eliminate all memory of the event or detail allow the target to recall the event with perfect clarity and exacting detail change its memory of the details of the event or create a memory of some other event.",
 "You must mentally describe or visualize how the memories are affected. The being's mind fills in any gaps in the details of your description. If the spell ends before you have finished describing or visualizing the modified memories the target's memory isn't altered. Otherwise the modified memories take hold when the spell ends.",
 "A modified memory doesn't necessarily affect how a being behaves particularly if the memory contradicts the creature's natural inclinations alignment or beliefs. An illogical modified memory such as implanting a memory of how much it enjoyed dousing itself in acid is dismissed perhaps as a bad dream. The HM might deem a modified memory too nonsensical to affect a being in a significant manner.",
@@ -5252,7 +5252,7 @@
 }
 ],
 "entries": [
-"You can conjure a black blindfold that magically wraps itself around a foe's head. Choose one creature that you can see within range to make a Dexterity saving throw. If it fails the target is blinded for the duration. The creature can remove the blindfold as an action."
+"You can conjure a black blindfold that magically wraps itself around a foe's head. Choose one creature that you can see within range to make a Dexterity saving throw (DC [[@{spell_save_dc}]]). If it fails the target is blinded for the duration. The creature can remove the blindfold as an action."
 ],
 "damageInflict": [
 "radiant"
@@ -5361,7 +5361,7 @@
 }
 ],
 "entries": [
-"You cast this jinx on a group of tiny objects or a group of birds within range. The targets start swarming in the air in a 5-foot-diameter sphere in an unoccupied space of your choice. Any creature that starts its turn within 5 feet of the swarm or enters the swarm's area for the first time on a turn must make a Dexterity saving throw. The creature takes [3d4](!&amp;&num;13&semi;/r 3d4) slashing damage on a failed save or half as much damage on a successful one.",
+"You cast this jinx on a group of tiny objects or a group of birds within range. The targets start swarming in the air in a 5-foot-diameter sphere in an unoccupied space of your choice. Any creature that starts its turn within 5 feet of the swarm or enters the swarm's area for the first time on a turn must make a Dexterity saving throw (DC [[@{spell_save_dc}]]). The creature takes [3d4](!&amp;&num;13&semi;/r 3d4) slashing damage on a failed save or half as much damage on a successful one.",
 "As a bonus action you can move the sphere up to 30 feet. While the swarm shares the same space with a creature that creature has disadvantage on attack rolls. The swarm's space counts as difficult terrain.",
 "***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher the damage increases by [1d4](!&amp;&num;13&semi;/r 1d4) for each slot level above 2nd."
 ],
@@ -5419,8 +5419,8 @@
 ],
 "entries": [
 "Tags: School of Magic - Transfiguration",
-"You choose a space on the ground that is currently occupied by a creature you can see within range. The ground becomes a thick liquid and swirls out from under the creature in an orb-like shape. The material then slams back down and regains its previous solidity in an attempt to bury the creature's legs. The target must make a Dexterity saving throw. On a failed save the target takes [3d6](!&amp;&num;13&semi;/r 3d6) bludgeoning damage and is restrained for the spell's duration.",
-"As an action you can cause the earth to crush the restrained target who must make a Strength saving throw. It takes [3d6](!&amp;&num;13&semi;/r 3d6) bludgeoning damage on a failed save or half as much damage on a successful one.",
+"You choose a space on the ground that is currently occupied by a creature you can see within range. The ground becomes a thick liquid and swirls out from under the creature in an orb-like shape. The material then slams back down and regains its previous solidity in an attempt to bury the creature's legs. The target must make a Dexterity saving throw (DC [[@{spell_save_dc}]]). On a failed save the target takes [3d6](!&amp;&num;13&semi;/r 3d6) bludgeoning damage and is restrained for the spell's duration.",
+"As an action you can cause the earth to crush the restrained target who must make a Strength saving throw (DC [[@{spell_save_dc}]]). It takes [3d6](!&amp;&num;13&semi;/r 3d6) bludgeoning damage on a failed save or half as much damage on a successful one.",
 "To break out the restrained target use its action to make a Strength check against your spell save DC. On a success the target pulls its legs free and is no longer restrained.",
 "***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher the damage increases by [1d6](!&amp;&num;13&semi;/r 1d6) for each slot level above 2nd."
 ],
@@ -5789,7 +5789,7 @@
 }
 ],
 "entries": [
-"This spell makes a being's arms and legs snap together and it will fall down stiff as a board. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit the target is knocked prone and paralyzed for the duration. At the end of each of its turns the target can make a Wisdom saving throw. On a success the spell ends on the target.",
+"This spell makes a being's arms and legs snap together and it will fall down stiff as a board. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit the target is knocked prone and paralyzed for the duration. At the end of each of its turns the target can make a Wisdom saving throw (DC [[@{spell_save_dc}]]). On a success the spell ends on the target.",
 "***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher you can target a beast instead of a being."
 ],
 "damageInflict": [
@@ -6283,7 +6283,7 @@
 }
 ],
 "entries": [
-"This spell forces both living and inanimate targets to release their grip. Choose an object or creature that you can see within range. The object can be a set of manacles a padlock chains or another object that is wrapped around or restraining something. If the target is a creature it must make a Wisdom saving throw. On a failed save it must let go of whatever it is restraining. This effect ends any grappled or restrained condition that is being imposed by the target.",
+"This spell forces both living and inanimate targets to release their grip. Choose an object or creature that you can see within range. The object can be a set of manacles a padlock chains or another object that is wrapped around or restraining something. If the target is a creature it must make a Wisdom saving throw (DC [[@{spell_save_dc}]]). On a failed save it must let go of whatever it is restraining. This effect ends any grappled or restrained condition that is being imposed by the target.",
 "An object that is secured by a mundane or magical lock or that is stuck becomes unlocked unstuck or unbarred. When you cast the spell on an object a loud rattling or clanking audible from as far away as 100 feet emanates from the target object.",
 "A creature is not forced to drop any object that it is holding. The creature must be restraining the object in some way like holding onto an object that has had accio cast upon it."
 ],
@@ -6548,7 +6548,7 @@
 "entries": [
 "Tags: Defensive",
 "You create a 20-foot-radius hemisphere of magical energy to protect you from one or more of the following: Dark wizards other Dark beings or Dark beasts. The circle affects creatures of the chosen type(s) in the following ways.",
-"The affected creatures can't willingly enter the hemisphere by nonmagical means. If the creature tries to use apparition/disapparition to do so it must first succeed on a Charisma saving throw.",
+"The affected creatures can't willingly enter the hemisphere by nonmagical means. If the creature tries to use apparition/disapparition to do so it must first succeed on a Charisma saving throw (DC [[@{spell_save_dc}]]).",
 "The affected creatures have disadvantage on attack rolls against targets within the hemisphere.",
 "Targets within the hemisphere can't be charmed or frightened by affected creatures.",
 "***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher the duration increases by 1 hour for each slot level above 3rd."
@@ -6609,7 +6609,7 @@
 ],
 "entries": [
 "Tags: Defensive",
-"Frequently used around wizarding areas this charm keeps Muggles away from dangerous situations or overtly magical locations. You enchant an area to suggest a course of activity and magically influence a non-magical human. Upon entering the warded area the subject must make a Wisdom saving throw at disadvantage. On a failed save it pursues a course of action that takes it away from the area of the spell.",
+"Frequently used around wizarding areas this charm keeps Muggles away from dangerous situations or overtly magical locations. You enchant an area to suggest a course of activity and magically influence a non-magical human. Upon entering the warded area the subject must make a Wisdom saving throw (DC [[@{spell_save_dc}]]) at disadvantage. On a failed save it pursues a course of action that takes it away from the area of the spell.",
 "The subject's mind naturally thinks of the best reason to convince itself that it must depart or barring an actual reason invents an arbitrary emergency that demands its attention elsewhere. The spell's effect ends when the subject has either attended to the matter they thought of or when the subject has decided to take another course of action that does not involve entering the area of the spell."
 ],
 "damageInflict": [
@@ -6973,7 +6973,7 @@
 ],
 "entries": [
 "Tags: Dark School of Magic - Jinxes Hexes and Curses",
-"Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a target within range. On a hit the target must make a Constitution saving throw. On a failed save a creature takes [10d6](!&amp;&num;13&semi;/r 10d6) slashing damage and another [5d6](!&amp;&num;13&semi;/r 5d6) slashing damage at the end of its next turn. On a successful save a creature takes half the initial damage and half the damage at the end of its next turn.",
+"Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a target within range. On a hit the target must make a Constitution saving throw (DC [[@{spell_save_dc}]]). On a failed save a creature takes [10d6](!&amp;&num;13&semi;/r 10d6) slashing damage and another [5d6](!&amp;&num;13&semi;/r 5d6) slashing damage at the end of its next turn. On a successful save a creature takes half the initial damage and half the damage at the end of its next turn.",
 "***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher the initial damage increases by [2d6](!&amp;&num;13&semi;/r 2d6) for each slot level above 4th."
 ],
 "damageInflict": [
@@ -7080,7 +7080,7 @@
 }
 ],
 "entries": [
-"This charm is extremely effective against wizards unpracticed in non-verbal magic. Choose one target that you can see within range. If it's a creature it must make a Wisdom saving throw. If it fails or if it's an object all sound created by the target is made completely silent. Casting a spell that includes a verbal component is impossible while under the effect of this spell."
+"This charm is extremely effective against wizards unpracticed in non-verbal magic. Choose one target that you can see within range. If it's a creature it must make a Wisdom saving throw (DC [[@{spell_save_dc}]]). If it fails or if it's an object all sound created by the target is made completely silent. Casting a spell that includes a verbal component is impossible while under the effect of this spell."
 ],
 "damageInflict": [
 "radiant"
@@ -7137,7 +7137,7 @@
 }
 ],
 "entries": [
-"This particularly nasty hex causes one to spit up slugs for the duration. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit it takes [3d8](!&amp;&num;13&semi;/r 3d8) psychic damage and gains one level of exhaustion. If it tries to cast a spell verbally before the end of its next turn it must first succeed on a Constitution saving throw or the casting fails and the spell is wasted.",
+"This particularly nasty hex causes one to spit up slugs for the duration. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit it takes [3d8](!&amp;&num;13&semi;/r 3d8) psychic damage and gains one level of exhaustion. If it tries to cast a spell verbally before the end of its next turn it must first succeed on a Constitution saving throw (DC [[@{spell_save_dc}]]) or the casting fails and the spell is wasted.",
 "***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher the damage increases by [1d8](!&amp;&num;13&semi;/r 1d8) for each slot level above 2nd."
 ],
 "damageInflict": [
@@ -7408,7 +7408,7 @@
 }
 ],
 "entries": [
-"This entertaining jinx forces its victim to do a comic dance in place: shuffling tapping its feet and capering. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a target within range. On a hit a dancing creature must use all its movement to dance without leaving its space until the end of your next turn. While the creature is affected by this spell it has disadvantage on Dexterity saving throws and attack rolls and other creatures have advantage on attack rolls against it. As an action a dancing creature makes a Wisdom saving throw to regain control of itself. On a successful save the spell ends."
+"This entertaining jinx forces its victim to do a comic dance in place: shuffling tapping its feet and capering. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a target within range. On a hit a dancing creature must use all its movement to dance without leaving its space until the end of your next turn. While the creature is affected by this spell it has disadvantage on Dexterity saving throws and attack rolls and other creatures have advantage on attack rolls against it. As an action a dancing creature makes a Wisdom saving throw (DC [[@{spell_save_dc}]]) to regain control of itself. On a successful save the spell ends."
 ],
 "damageInflict": [
 "radiant"
@@ -7518,9 +7518,9 @@
 ],
 "entries": [
 "Tags: Dark",
-"A dark purpose for transfiguration this tortuous spell slowly rearranges and dissolves a creature's internal organs. A creature you can see within range must make a Constitution saving throw. On a failed save it takes [2d12](!&amp;&num;13&semi;/r 2d12) acid damage at the start of each of its turns and is subject to crippling pain. On a successful save the spell has no effect.",
-"While the target is affected by crippling pain any speed it has can be no higher than 10 feet. The target also has disadvantage on attack rolls and ability checks. Finally if the target tries to cast a spell it must first succeed on a Constitution saving throw or the casting fails and the spell is wasted.",
-"A target suffering from this spell can make a Constitution saving throw at the end of each of its turns. On a successful save the spell ends.",
+"A dark purpose for transfiguration this tortuous spell slowly rearranges and dissolves a creature's internal organs. A creature you can see within range must make a Constitution saving throw (DC [[@{spell_save_dc}]]). On a failed save it takes [2d12](!&amp;&num;13&semi;/r 2d12) acid damage at the start of each of its turns and is subject to crippling pain. On a successful save the spell has no effect.",
+"While the target is affected by crippling pain any speed it has can be no higher than 10 feet. The target also has disadvantage on attack rolls and ability checks. Finally if the target tries to cast a spell it must first succeed on a Constitution saving throw (DC [[@{spell_save_dc}]]) or the casting fails and the spell is wasted.",
+"A target suffering from this spell can make a Constitution saving throw (DC [[@{spell_save_dc}]]) at the end of each of its turns. On a successful save the spell ends.",
 "***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher the damage increases by [1d12](!&amp;&num;13&semi;/r 1d12) for each slot level above 5th."
 ],
 "damageInflict": [
@@ -7577,7 +7577,7 @@
 ],
 "entries": [
 "A strong gust of air flows out from the tip of your wand and creates one of the following effects at a point you can see within range:",
-"One medium or smaller creature that you choose must succeed on a Strength saving throw or be instantaneously pushed up to 5 feet away from you and be rendered unable to move closer to you for the duration.",
+"One medium or smaller creature that you choose must succeed on a Strength saving throw (DC [[@{spell_save_dc}]]) or be instantaneously pushed up to 5 feet away from you and be rendered unable to move closer to you for the duration.",
 "You create a small blast of air capable of moving one object that is neither held nor carried and that weighs no more than 5 pounds. The object is pushed up to 10 feet away from you per round for the duration of the spell. It isn't pushed with enough force to cause damage.",
 "You create a harmless sensory effect using air such as causing leaves to rustle wind to slam shutters shut or your clothing to ripple in a breeze. If desired the air can be hot and function like a blow dryer.",
 "***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher you can target one additional creature for each slot level above 2nd. The creatures must be within 30 feet of each other when you target them."
@@ -7635,7 +7635,7 @@
 "This universal incantation is taught to Hogwarts students in their first Transfiguration class. You transfigure one nonmagical object that fits within a 1-foot cube into another nonmagical object of similar size and mass and of equal or lesser value.",
 "***At Higher Levels.*** When you cast this spell using a spell slot of 1st level or higher you may select or stack one of the following effects for each slot level above 0.",
 "Increase the cube size by 2 feet.",
-"Target a living creature (if unwilling it must make a Wisdom saving throw to avoid the effect).",
+"Target a living creature (if unwilling it must make a Wisdom saving throw (DC [[@{spell_save_dc}]]) to avoid the effect).",
 "Transfigure into a construct (Duration: Concentration up to 1 minute)."
 ],
 "damageInflict": [
