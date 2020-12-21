@@ -655,8 +655,7 @@
 ],
 "entries": [
 "Tags: Dark",
-"The spell blasts whatever it hits creating a localized concussive explosion upon impact. Make a ranged Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a target within range. On a hit the target takes [1d10](!&amp;&num;13&semi;/r 1d10) bludgeoning damage.",
-"This spell's damage increases by [1d10](!&amp;&num;13&semi;/r 1d10) when you reach 5th level ([2d10](!&amp;&num;13&semi;/r 2d10)) 11th level ([3d10](!&amp;&num;13&semi;/r 3d10)) and 17th level ([4d10](!&amp;&num;13&semi;/r 4d10))."
+"The spell blasts whatever it hits creating a localized concussive explosion upon impact. Make a ranged Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a target within range. On a hit the target takes [[[round((@{level}+1)/6+0.5)]]d10](!&amp;&num;13&semi;/r [[round((@{level}+1)/6+0.5)]]d10) bludgeoning damage."
 ],
 "damageInflict": [
 "radiant"
@@ -3124,8 +3123,7 @@
 }
 ],
 "entries": [
-"Outbreaks of this jinx is a common occurrence when students get in fights resulting in grotesque pimples covering the victims face. Make a ranged Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a being within range. On a hit it takes [1d4](!&amp;&num;13&semi;/r 1d4) psychic damage and has disadvantage on the next attack roll it makes before the end of its next turn. Additionally it has disadvantage on the next Charisma ability check it makes.",
-"This spell's damage increases by [1d4](!&amp;&num;13&semi;/r 1d4) when you reach 5th level ([2d4](!&amp;&num;13&semi;/r 2d4)) 11th level ([3d4](!&amp;&num;13&semi;/r 3d4)) and 17th level ([4d4](!&amp;&num;13&semi;/r 4d4))."
+"Outbreaks of this jinx is a common occurrence when students get in fights resulting in grotesque pimples covering the victims face. Make a ranged Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a being within range. On a hit it takes [[[round((@{level}+1)/6+0.5)]]d4](!&amp;&num;13&semi;/r [[round((@{level}+1)/6+0.5)]]d4) psychic damage and has disadvantage on the next attack roll it makes before the end of its next turn. Additionally it has disadvantage on the next Charisma ability check it makes."
 ],
 "damageInflict": [
 "radiant"
@@ -4021,8 +4019,7 @@
 }
 ],
 "entries": [
-"This jinxes a target's mind giving them a brief moment of disorientation. Make a ranged Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit the target takes [1d6](!&amp;&num;13&semi;/r 1d6) psychic damage and the first time it makes a saving throw before the end of your next turn it must roll a d4 and subtract the number rolled from the save.",
-"This spell's damage increases by [1d6](!&amp;&num;13&semi;/r 1d6) when you reach certain levels: 5th level ([2d6](!&amp;&num;13&semi;/r 2d6)) 11th level ([3d6](!&amp;&num;13&semi;/r 3d6)) and 17th level ([4d6](!&amp;&num;13&semi;/r 4d6))."
+"This jinxes a target's mind giving them a brief moment of disorientation. Make a ranged Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit the target takes [[[round((@{level}+1)/6+0.5)]]d6](!&amp;&num;13&semi;/r [[round((@{level}+1)/6+0.5)]]d6) psychic damage and the first time it makes a saving throw before the end of your next turn it must roll a d4 and subtract the number rolled from the save."
 ],
 "damageInflict": [
 "radiant"
