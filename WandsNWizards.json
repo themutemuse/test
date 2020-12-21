@@ -107,7 +107,7 @@
 			],
 			"entries": [
 				"A target object is pulled directly to the caster as if carried by an invisible hand. The object is selected by pointing at it with a wand or by naming it Accio broom. An object heavier than 20 pounds may not be summoned.",
-				"At Higher Levels. When you cast this spell using a spell slot of 1st level or higher you may select or stack one of the following effects for each slot level above 0.",
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 1st level or higher you may select or stack one of the following effects for each slot level above 0.",
 				"Increase spell range by 100 feet.",
 				"Increase weight limit to 40 pounds.",
 				"Target up to 5 identical objects in range."
@@ -325,7 +325,7 @@
 			],
 			"entries": [
 				"With a spin and a spray of golden mist recent magical activity is revealed and illuminated through ghostly images hanging in the air recreating the magical beings magical creatures or magical events that have been in the area within the last 10 minutes. Magical footprints and track marks are also highlighted on the ground. Any of the effects can be hidden highlighted or expanded for the duration.",
-				"At Higher Levels. When you cast this spell using a spell slot of a higher level the historical window extends to 1 hour (5th level) 24 hours (6th level) or a week (7th level)."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of a higher level the historical window extends to 1 hour (5th level) 24 hours (6th level) or a week (7th level)."
 			],
 			"damageInflict": [
 				"radiant"
@@ -378,9 +378,9 @@
 				}
 			],
 			"entries": [
-				"This spell blasts away spiders Acromantulas or arachnids with a cone of bright scorching light. Each spider-like creature in a 30-foot cone must make a Constitution saving throw. On a failed save a creature takes {@damage 4d6} radiant damage and is knocked back 5 feet plus a number of feet equal to five times your spellcasting ability modifier. On a successful save it takes half as much damage and isn't knocked back.",
+				"This spell blasts away spiders Acromantulas or arachnids with a cone of bright scorching light. Each spider-like creature in a 30-foot cone must make a Constitution saving throw. On a failed save a creature takes {@damage [4d6](!&#13;/r 4d6)} radiant damage and is knocked back 5 feet plus a number of feet equal to five times your spellcasting ability modifier. On a successful save it takes half as much damage and isn't knocked back.",
 				"Any non-arachnid creatures within the area of the spell is unaffected.",
-				"At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher the damage increases by 1d6 and the shove distance increases by 10 feet for each slot level above 2nd."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher the damage increases by [1d6](!&#13;/r 1d6) and the shove distance increases by 10 feet for each slot level above 2nd."
 			],
 			"damageInflict": [
 				"radiant"
@@ -486,8 +486,8 @@
 			],
 			"entries": [
 				"Tags: Dark - Unforgivable Curse",
-				"The most dangerous of the Unforgivables Avada Kedavra channels the caster's pure hatred into an unblockable spell that kills whatever it strikes. Make a ranged spell attack against a target within range. On a hit and if the target has 100 hit points or fewer it dies or is destroyed. Otherwise the spell has no effect. Defensive spells have no effect against this spell and it can only be blocked by physical objects.",
-				"At Higher Levels. When you cast this spell using a spell slot of 9th level there is no hit point restriction."
+				"The most dangerous of the Unforgivables Avada Kedavra channels the caster's pure hatred into an unblockable spell that kills whatever it strikes. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a target within range. On a hit and if the target has 100 hit points or fewer it dies or is destroyed. Otherwise the spell has no effect. Defensive spells have no effect against this spell and it can only be blocked by physical objects.",
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 9th level there is no hit point restriction."
 			],
 			"damageInflict": [
 				"radiant"
@@ -545,7 +545,7 @@
 				"You conjure a swarm of birds that are a species of your choice. The swarm disappears when it drops to 0 hit points or when the spell ends.",
 				"The conjured birds are friendly to you and your companions. Roll initiative for the summoned swarms as a group which has its own turns. They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to them they defend themselves from hostile creatures but otherwise take no actions.",
 				"The HM has the creatures' statistics.",
-				"At Higher Levels. When you cast this spell using certain higher-level spell slots more creatures appear - twice as many with a 5th-level slot three times as many with a 7th-level slot and four times as many with a 9th-level slot."
+				"***At Higher Levels.*** When you cast this spell using certain higher-level spell slots more creatures appear - twice as many with a 5th-level slot three times as many with a 7th-level slot and four times as many with a 9th-level slot."
 			],
 			"damageInflict": [
 				"radiant"
@@ -604,7 +604,7 @@
 				"Great plumes of cursed fire pour out from the tip of your wand rampaging into shapes of beasts and incinerating anything in their path. Upon casting the area of the fiendfyre is one 10-foot cube with the number of 10-foot cubes doubling at the beginning of each of your turns. As long as concentration is maintained you can arrange any newly added cubes as you wish. Each cube must have at least one face adjacent to the face of another cube. Each creature in the area must make a Dexterity saving throw. It takes 5d10 fire damage on a failed save or half as much damage on a successful one. A creature takes the same damage when it enters the area for the first time on a turn or ends its turn there.",
 				"Upon reaching 8 cubes you must make a DC15 Constitution saving throw to maintain concentration at the beginning of each of your turns. If your concentration is broken after 4 cubes of fiendfyre are active the spell doesn't end and rages out of control. The fiendfyre will continue to double at the beginning of each round until the end of its duration. If you decide to end the spell while you still have concentration the spell ends as normal and all fiendfyre disappears.",
 				"The fiendfyre damages objects in the area and ignites flammable objects that aren't being worn or carried. Even magical objects and defenses are damaged or destroyed by this spell.",
-				"At Higher Levels. When you cast this spell using a spell slot of 8th level or higher the damage increases by 1d10 and the concentration DC increases by 1 for each slot level above 7th."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 8th level or higher the damage increases by 1d10 and the concentration DC increases by 1 for each slot level above 7th."
 			],
 			"damageInflict": [
 				"radiant"
@@ -705,7 +705,7 @@
 			],
 			"entries": [
 				"This spell heals a being's broken bones immediately although the process is quite painful. A being you tap with your wand regains a number of hit points equal to 5d10 + your spellcasting ability modifier and gains a level of exhaustion.",
-				"At Higher Levels. When you cast this spell using a spell slot of 5th level or higher the healing increases by 1d10 for each slot level above 4th."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher the healing increases by 1d10 for each slot level above 4th."
 			],
 			"damageInflict": [
 				"radiant"
@@ -759,7 +759,7 @@
 				}
 			],
 			"entries": [
-				"When struck by this spell a being can't help but belt out a couple of lines from the first song that comes to mind. Make a ranged spell attack against a being within range. On a hit a being must cast a spell non-verbally until the end of its next turn. If it tries to cast a spell verbally it must first succeed on an Intelligence saving throw or the casting fails and the spell is wasted."
+				"When struck by this spell a being can't help but belt out a couple of lines from the first song that comes to mind. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a being within range. On a hit a being must cast a spell non-verbally until the end of its next turn. If it tries to cast a spell verbally it must first succeed on an Intelligence saving throw or the casting fails and the spell is wasted."
 			],
 			"damageInflict": [
 				"radiant"
@@ -922,7 +922,7 @@
 			],
 			"entries": [
 				"A bond of light shoots out from the caster and attaches to the target and then retracts pulling each side 10 feet closer. If one side doesn't move the other side moves 20 feet. After retracting the bond of light keeps the caster and target attached for the duration.",
-				"At Higher Levels. When you cast this spell using a spell slot of 1st level or higher the range and pulling effect both increase by 10 feet for each slot level above 0."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 1st level or higher the range and pulling effect both increase by 10 feet for each slot level above 0."
 			],
 			"damageInflict": [
 				"radiant"
@@ -978,7 +978,7 @@
 			"entries": [
 				"Tags: Defensive",
 				"A forcefield-like dome forms a perimeter around the caster that filters vision of anything or anyone designated by the caster rendering those objects infallibly invisible. The dome is undetectable from the outside but slightly visible from the inside like a wavering glass barrier. Anyone can move through the field freely to see the hidden contents.",
-				"At Higher Levels. When you cast this spell using a spell slot of 6th level or higher you may select or stack one of the following effects for each slot level above 5th.",
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher you may select or stack one of the following effects for each slot level above 5th.",
 				"Increase the spell radius by 20 feet.",
 				"Increase the duration to 8 hours.",
 				"Add the ability to completely block sounds.",
@@ -1249,8 +1249,8 @@
 			],
 			"entries": [
 				"Tags: Dark",
-				"A tiny ball of fire flashes from your wand to a point you choose within range and then explodes into a fiery blast on impact. Each creature in a 10-foot-radius sphere centered on that point must make a Dexterity saving throw. A target takes 8d6 fire damage on a failed save or half as much damage on a successful one. The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.",
-				"At Higher Levels. When you cast this spell using a spell slot of 4th level or higher the damage increases by 1d6 and the radius increases by 5 feet for each slot level above 3rd."
+				"A tiny ball of fire flashes from your wand to a point you choose within range and then explodes into a fiery blast on impact. Each creature in a 10-foot-radius sphere centered on that point must make a Dexterity saving throw. A target takes [8d6](!&#13;/r 8d6) fire damage on a failed save or half as much damage on a successful one. The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.",
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher the damage increases by [1d6](!&#13;/r 1d6) and the radius increases by 5 feet for each slot level above 3rd."
 			],
 			"damageInflict": [
 				"radiant"
@@ -1309,7 +1309,7 @@
 				"If the target is a creature you choose within range it must succeed on a Wisdom saving throw when you cast this spell or be affected by it. An affected target can't take reactions and if not distracted with something you roll a d10. If you roll 1-8 the creature must use all its movement to move in a random direction. To determine the direction assign a direction to each number 1-8. If you roll a 9-10 the creature doesn't move. Whether it moves or not the creature doesn't take an action this turn.",
 				"If desired you can suggest a course of activity (limited to a sentence or two) at the time of casting and magically influence a creature you can see within range that can hear and understand you. Creatures that can't be charmed are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking the creature to directly hurt itself or its allies will have no effect. The suggested course of action can continue for the entire duration. You can also specify conditions that will trigger a special activity during the duration. For example you might suggest that a wizard hug the next blast-ended skrewt he sees. If the condition isn't met before the spell expires the activity isn't performed.",
 				"At the end of each of its turns an affected target can make a Wisdom saving throw. If it succeeds the spell's effects end for that target.",
-				"At Higher Levels. When you cast this spell using a spell slot of 5th level or higher you can target one additional target for each slot level above 4th. The targets must be within 30 feet of each other when you target them."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher you can target one additional target for each slot level above 4th. The targets must be within 30 feet of each other when you target them."
 			],
 			"damageInflict": [
 				"radiant"
@@ -1366,8 +1366,8 @@
 				}
 			],
 			"entries": [
-				"When struck by this curse a creature's eyes to become irritated and painful swelling shut. Make a ranged spell attack against a creature within range. On a hit the target takes 2d8 necrotic damage and is blinded for the duration. At the end of each of its turns the target can make a Constitution saving throw. On a success the spell ends. Creatures that are normally magically resistant are vulnerable to this spell.",
-				"At Higher Levels. When you cast this spell using a spell slot of 4th level or higher the damage increases by 1d8 for each slot level above 3rd."
+				"When struck by this curse a creature's eyes to become irritated and painful swelling shut. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit the target takes 2d8 necrotic damage and is blinded for the duration. At the end of each of its turns the target can make a Constitution saving throw. On a success the spell ends. Creatures that are normally magically resistant are vulnerable to this spell.",
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher the damage increases by 1d8 for each slot level above 3rd."
 			],
 			"damageInflict": [
 				"radiant"
@@ -1531,7 +1531,7 @@
 				"You choose a portion of dirt or stone that you can see within range and that fits within a 5-foot cube. You manipulate it in one of the following ways:",
 				"If you target an area of stone or earth you can instantaneously excavate it move it along the ground and deposit it up to 5 feet away. This movement doesn't have enough force to cause damage.",
 				"If the dirt or stone you target is on the ground you cause it to become difficult terrain. Alternatively you can cause the ground to become normal terrain if it is already difficult terrain. This change lasts for 1 hour. If cast multiple times only two of this effect can be active at a time and you can dismiss such an effect as an action.",
-				"At Higher Levels. When you cast this spell using a spell slot of 1st level or higher the size of the cube and distance the earth can be moved are each increased by 5 feet and the number of active normal/difficult terrain effects increase by 1 for each slot level above 0."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 1st level or higher the size of the cube and distance the earth can be moved are each increased by 5 feet and the number of active normal/difficult terrain effects increase by 1 for each slot level above 0."
 			],
 			"damageInflict": [
 				"radiant"
@@ -1581,8 +1581,8 @@
 				}
 			],
 			"entries": [
-				"A target's front two teeth grow abnormally long protruding downwards past its chin. Make a ranged spell attack against a creature within range. On a hit it takes 2d8 psychic damage and has disadvantage on the next attack roll it makes before the end of its next turn.",
-				"At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher the damage is increased by 1d8 for each slot level above 1st."
+				"A target's front two teeth grow abnormally long protruding downwards past its chin. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit it takes 2d8 psychic damage and has disadvantage on the next attack roll it makes before the end of its next turn.",
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher the damage is increased by 1d8 for each slot level above 1st."
 			],
 			"damageInflict": [
 				"radiant"
@@ -1633,7 +1633,7 @@
 			],
 			"entries": [
 				"You place immense downward pressure on a target. If the target is a creature it must make a Strength saving throw. On a failed save a creature takes 5d8 bludgeoning damage and is knocked prone. On a successful save the creature takes half as much damage and isn't knocked prone. If the target is a flat surface this will either create a crater or collapse the surface.",
-				"At Higher Levels. When you cast this spell using a spell slot of 4th level or higher the damage is increased by 1d8 for each slot level above 3rd."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher the damage is increased by 1d8 for each slot level above 3rd."
 			],
 			"damageInflict": [
 				"radiant"
@@ -1688,7 +1688,7 @@
 			"entries": [
 				"A target is pushed directly away from the caster as if shoved by an invisible hand being thrown 5 feet away plus a number of feet equal to five times your spellcasting ability modifier. The target is selected by pointing at it with a wand.",
 				"If targeting a creature make a check with 26 Strength (+8) contested by the Strength (Athletics) check of the target. If the target is Medium or smaller you have advantage on the check. If you succeed the target is thrown the same distance.",
-				"At Higher Levels. When you cast this spell using a spell slot of 4th level or higher the shove distance is increased by 10 feet for each slot level above 3rd."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher the shove distance is increased by 10 feet for each slot level above 3rd."
 			],
 			"damageInflict": [
 				"radiant"
@@ -1738,8 +1738,8 @@
 				}
 			],
 			"entries": [
-				"This weak jinx is a classic training spell between duelists a startling sting on impact. Make a ranged spell attack against a creature within range. On a hit it takes 1d6 force damage and it can't take reactions until the start of its next turn.",
-				"The spell's damage increases by 1d6 when you reach 5th level (2d6) 11th level (3d6) and 17th level (4d6)."
+				"This weak jinx is a classic training spell between duelists a startling sting on impact. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit it takes [1d6](!&#13;/r 1d6) force damage and it can't take reactions until the start of its next turn.",
+				"The spell's damage increases by [1d6](!&#13;/r 1d6) when you reach 5th level ([2d6](!&#13;/r 2d6)) 11th level ([3d6](!&#13;/r 3d6)) and 17th level ([4d6](!&#13;/r 4d6))."
 			],
 			"damageInflict": [
 				"radiant"
@@ -1790,7 +1790,7 @@
 			],
 			"entries": [
 				"An object is precisely torn or cut as if a magical blade extended from the tip of your wand. This spell was not designed to be used on creatures and only makes very shallow cuts. Choose a target that fits within a 5-foot cube. If the target is a creature it must make a Dexterity saving throw. It takes 1d8 slashing damage on a failed save or half as much damage on a successful one. This is the counterspell to incarcerous immediately ending that spell's effects.",
-				"At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher you can target one additional creature or the cube's size increases by 5 feet for each slot level above 1st. If targeting an additional creature the targets must be within 10 feet of each other when you target them."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher you can target one additional creature or the cube's size increases by 5 feet for each slot level above 1st. If targeting an additional creature the targets must be within 10 feet of each other when you target them."
 			],
 			"damageInflict": [
 				"radiant"
@@ -1847,7 +1847,7 @@
 				}
 			],
 			"entries": [
-				"A popular dueling spell among young wizards at Hogwarts this jinx makes a being's fingers numb and relaxed. Make a ranged spell attack against a creature within range. On a hit the target has disadvantage on attack rolls for the duration. At the start of each of its turns the target can make a Dexterity saving throw. On a success the spell ends."
+				"A popular dueling spell among young wizards at Hogwarts this jinx makes a being's fingers numb and relaxed. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit the target has disadvantage on attack rolls for the duration. At the start of each of its turns the target can make a Dexterity saving throw. On a success the spell ends."
 			],
 			"damageInflict": [
 				"radiant"
@@ -1902,8 +1902,8 @@
 				}
 			],
 			"entries": [
-				"Make a ranged spell attack against a creature within range. On a hit the being or beast's size is halved in all dimensions and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category - from Medium to Small for example.",
-				"Until the spell ends the target also has disadvantage on Strength checks and Strength saving throws. The target's items or equipment also shrink to match its new size but any item dropped by an affected creature returns to normal size at once. The target deals 1d4 less damage (this can't reduce the damage below 1)."
+				"Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit the being or beast's size is halved in all dimensions and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category - from Medium to Small for example.",
+				"Until the spell ends the target also has disadvantage on Strength checks and Strength saving throws. The target's items or equipment also shrink to match its new size but any item dropped by an affected creature returns to normal size at once. The target deals [1d4](!&#13;/r 1d4) less damage (this can't reduce the damage below 1)."
 			],
 			"damageInflict": [
 				"radiant"
@@ -2020,7 +2020,7 @@
 				"The dragon construct is friendly to you and your companions for the duration. Roll initiative for the dragon construct which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don't issue any commands to it it defends itself from hostile creatures but otherwise takes no actions.",
 				"If your concentration is broken the dragon construct doesn't disappear. Instead you lose control of the construct it becomes hostile toward you and your companions and it might attack. An uncontrolled dragon construct can't be dismissed by you and it untransfigures 10 minutes after you transfigured it.",
 				"The HM has the creature's statistics.",
-				"At Higher Levels. When you cast this spell using a spell slot of 7th level choose one of the following options:",
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 7th level choose one of the following options:",
 				"Two dragon wyrmlings of challenge rating 3 or lower",
 				"Three dragon wyrmlings of challenge rating 2 or lower",
 				"When you cast this spell using a spell slot of 9th level choose one of the following options:",
@@ -2195,7 +2195,7 @@
 			],
 			"entries": [
 				"You cause a creature or an object you can see within range to grow larger or smaller for the duration. Choose either a creature or an object that is neither worn nor carried. If the target is unwilling it can make a Constitution saving throw. On a success the spell has no effect.",
-				"The target's size doubles in all dimensions and its weight is multiplied by eight. This growth increases its size by one category - from Medium to Large for example. If there isn't enough room for the target to double its size the creature or object attains the maximum possible size in the space available. Until the spell ends the target also has advantage on Strength checks and Strength saving throws. The target's items and equipment also grow to match its new size. While enlarged the target deals 1d4 extra damage."
+				"The target's size doubles in all dimensions and its weight is multiplied by eight. This growth increases its size by one category - from Medium to Large for example. If there isn't enough room for the target to double its size the creature or object attains the maximum possible size in the space available. Until the spell ends the target also has advantage on Strength checks and Strength saving throws. The target's items and equipment also grow to match its new size. While enlarged the target deals [1d4](!&#13;/r 1d4) extra damage."
 			],
 			"damageInflict": [
 				"radiant"
@@ -2248,8 +2248,8 @@
 				}
 			],
 			"entries": [
-				"A being of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.",
-				"At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher the healing increases by 1d4 for each slot level above 1st."
+				"A being of your choice that you can see within range regains hit points equal to [1d4](!&#13;/r 1d4) + your spellcasting ability modifier. This spell has no effect on undead or constructs.",
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher the healing increases by [1d4](!&#13;/r 1d4) for each slot level above 1st."
 			],
 			"damageInflict": [
 				"radiant"
@@ -2307,7 +2307,7 @@
 			],
 			"entries": [
 				"This spell transfigures the surface of an object to become extremely sticky. One object of your choice within range that fits within a 1-foot cube adheres to anything it touches for the duration. If a creature wants to overcome the sticking effect it can use its action to make a Strength check against your spell save DC. On a success it can pull the target object free or remove one thing from the target object's surface.",
-				"At Higher Levels. When you cast this spell using a spell slot of 1st level or higher the cube's size increases by 1 foot for each slot level above 0."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 1st level or higher the cube's size increases by 1 foot for each slot level above 0."
 			],
 			"damageInflict": [
 				"radiant"
@@ -2358,7 +2358,7 @@
 			],
 			"entries": [
 				"One object or construct of your choice within range that fits within a 1-foot cube is vanished. Vanished objects have been described as being transfigured to go into non-being which is to say everything. Vanishing is often seen as the magical inverse of conjuration.",
-				"At Higher Levels. When you cast this spell using a spell slot of 4th level or higher the cube's size increases by 1 foot for each slot level above 3rd."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher the cube's size increases by 1 foot for each slot level above 3rd."
 			],
 			"damageInflict": [
 				"radiant"
@@ -2491,7 +2491,7 @@
 				"Only dementors and lethifolds have been confirmed to be affected by a patronus. At the GM's discretion your patronus can interact with or harm creatures like banshees inferi or obscuri. If your GM decides a creature can be affected by a patronus the creature is susceptible to the patronus's fear effect and can be attacked and take damage from it.",
 				"Even if a patronus is unable to harm a particular kind of creature its soothing presence can still protect you by preventing fear.",
 				"At any time during the patronus's movement you can direct the patronus to charge into a dementor within 5 feet of it. Make a melee spell attack for the patronus using your spell attack modifier. On a hit the target takes 5d10 radiant damage and the patronus pushes the target up to 5 feet plus a number of feet equal to five times your spellcasting ability modifier. The patronus moves with the target to remain within 5 feet of it and does not use any movement to do so.",
-				"At Higher Levels. When you cast this spell using a spell slot of 4th level or higher the damage increases by 1d10 and the radius of the dim light increases by 5 feet for each slot level above 3rd."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher the damage increases by 1d10 and the radius of the dim light increases by 5 feet for each slot level above 3rd."
 			],
 			"damageInflict": [
 				"radiant"
@@ -2544,8 +2544,8 @@
 				}
 			],
 			"entries": [
-				"Famous for being the spell that finally defeated Voldemort in the Second Wizarding War this spell can harmlessly end duels by disarming a wizard of his wand. Make a ranged spell attack against a being within range. On a hit you disarm the target forcing it to drop one item of your choice that it's holding. The object lands 10 feet away from it in a random direction.",
-				"At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher you can choose the direction the object travels and the object's distance increases by 10 feet for each slot level above 2nd."
+				"Famous for being the spell that finally defeated Voldemort in the Second Wizarding War this spell can harmlessly end duels by disarming a wizard of his wand. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a being within range. On a hit you disarm the target forcing it to drop one item of your choice that it's holding. The object lands 10 feet away from it in a random direction.",
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher you can choose the direction the object travels and the object's distance increases by 10 feet for each slot level above 2nd."
 			],
 			"damageInflict": [
 				"radiant"
@@ -2596,7 +2596,7 @@
 			],
 			"entries": [
 				"The spell shoots out from your wand and a wave of thunderous force sweeps out from a point of your choice within range. Each creature in a 10-foot-radius sphere centered on that point must make a Constitution saving throw. On a failed save a creature takes 4d8 thunder damage and is pushed 10 feet away from that point. On a successful save the creature takes half as much damage and isn't pushed. In addition unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from that point by the spell's effect and the spell emits a thunderous boom audible out to 100 feet.",
-				"At Higher Levels. When you cast this spell using a spell slot of 4th level or higher the damage increases by 1d8 for each slot level above 3rd."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher the damage increases by 1d8 for each slot level above 3rd."
 			],
 			"damageInflict": [
 				"radiant"
@@ -2860,7 +2860,7 @@
 			"entries": [
 				"Tags: Defensive",
 				"Choose any creature object or magical effect within range. One non-Transfiguration spell of 2nd level or lower on the target ends. If you are aware of at least one spell affecting the target you can specify that spell in your mind. If you are unaware of what spells are affecting the target one randomly selected spell ends. For a spell of a higher level on the target make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a successful check the spell ends.",
-				"At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher you automatically end the effects of a non-Transfiguration spell on the target if the spell's level is equal to or less than the level of the spell slot you used."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher you automatically end the effects of a non-Transfiguration spell on the target if the spell's level is equal to or less than the level of the spell slot you used."
 			],
 			"damageInflict": [
 				"radiant"
@@ -2963,7 +2963,7 @@
 			],
 			"entries": [
 				"The spell feels like a very heavy blow sharply throwing a creature from its standing position to the ground. Choose a being you can see within range to make a Strength saving throw. On a failed save a creature takes 2d10 bludgeoning damage is knocked back a number of feet equal to five times your spellcasting ability modifier and is knocked prone. On a successful save the creature takes half as much damage is knocked back 5 feet and isn't knocked prone.",
-				"At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher the damage increases by 1d10 and the knockback on a failed save increases by 5 feet for each slot level above 1st."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher the damage increases by 1d10 and the knockback on a failed save increases by 5 feet for each slot level above 1st."
 			],
 			"damageInflict": [
 				"radiant"
@@ -3016,7 +3016,7 @@
 			],
 			"entries": [
 				"One object of your choice that fits within a 1-foot cube is made completely invulnerable to physical destruction. This renders it immune to any damage magical or mundane but it can still be affected by spells that directly change the object such as vera verto or evanesco.",
-				"At Higher Levels. When you cast this spell using a spell slot of 4th level or higher the cube's size increases by 1 foot for each slot level above 3rd."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher the cube's size increases by 1 foot for each slot level above 3rd."
 			],
 			"damageInflict": [
 				"radiant"
@@ -3072,8 +3072,8 @@
 			],
 			"entries": [
 				"A thick spray of smoke billows out from your wand filling a 15-foot cube originating from you. This smoke spreads around corners. It lasts for the duration or until strong wind disperses the smoke ending the spell. Its area is heavily obscured.",
-				"When a creature enters the spell's area for the first time on a turn or starts its turn there that creature must make a Constitution saving throw. The creature takes 2d6 poison damage on a failed save or half as much damage on a successful one. Constructs and undead are immune to this damage.",
-				"At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher the damage increases by 1d6 and the area increases by 5 feet for each slot level above 2nd."
+				"When a creature enters the spell's area for the first time on a turn or starts its turn there that creature must make a Constitution saving throw. The creature takes [2d6](!&#13;/r 2d6) poison damage on a failed save or half as much damage on a successful one. Constructs and undead are immune to this damage.",
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher the damage increases by [1d6](!&#13;/r 1d6) and the area increases by 5 feet for each slot level above 2nd."
 			],
 			"damageInflict": [
 				"radiant"
@@ -3123,8 +3123,8 @@
 				}
 			],
 			"entries": [
-				"Outbreaks of this jinx is a common occurrence when students get in fights resulting in grotesque pimples covering the victims face. Make a ranged spell attack against a being within range. On a hit it takes 1d4 psychic damage and has disadvantage on the next attack roll it makes before the end of its next turn. Additionally it has disadvantage on the next Charisma ability check it makes.",
-				"This spell's damage increases by 1d4 when you reach 5th level (2d4) 11th level (3d4) and 17th level (4d4)."
+				"Outbreaks of this jinx is a common occurrence when students get in fights resulting in grotesque pimples covering the victims face. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a being within range. On a hit it takes [1d4](!&#13;/r 1d4) psychic damage and has disadvantage on the next attack roll it makes before the end of its next turn. Additionally it has disadvantage on the next Charisma ability check it makes.",
+				"This spell's damage increases by [1d4](!&#13;/r 1d4) when you reach 5th level ([2d4](!&#13;/r 2d4)) 11th level ([3d4](!&#13;/r 3d4)) and 17th level ([4d4](!&#13;/r 4d4))."
 			],
 			"damageInflict": [
 				"radiant"
@@ -3179,7 +3179,7 @@
 			"entries": [
 				"You tap an object that fits within a 1-foot cube with your wand and a perfect duplicate of it pops out from the object. The duplicate is indistinguishable from the object by normal means but does not share any of its magical qualities or functions. The duplicate has one quarter of the original object's hit points and vanishes at the end of the spell's duration.",
 				"To detect the duplicate's inauthenticity a creature within 5 feet of it can use an action to make an Intelligence (Investigation) check against your spell save DC. On a success it perceives subtle flaws and understands it to be a fake. 5 days after casting this spell the duplicate begins to show significant signs of degradation granting advantage on the Investigation check. If specialis revelio is cast on the duplicate the caster is made aware that the object is a duplicate created by this spell.",
-				"At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher the cube's size increases by 1 foot for each slot level above 2nd."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher the cube's size increases by 1 foot for each slot level above 2nd."
 			],
 			"damageInflict": [
 				"radiant"
@@ -3236,7 +3236,7 @@
 				}
 			],
 			"entries": [
-				"This hex flips around a beast or being's knees forcing them to take awkward uncoordinated steps. Make a ranged spell attack against a creature within range. On a hit the target's speed is halved for the duration of the spell."
+				"This hex flips around a beast or being's knees forcing them to take awkward uncoordinated steps. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit the target's speed is halved for the duration of the spell."
 			],
 			"damageInflict": [
 				"radiant"
@@ -3402,7 +3402,7 @@
 				"When the wall appears each creature within its area must make a Dexterity saving throw. On a failed save a creature takes 3d8 fire damage or half as much damage on a successful save. A creature takes the same damage when it enters the wall for the first time on a turn or ends its turn there.",
 				"As an action you can send a tendril of flames lashing out at any point within 60 feet of the center of the ring. Each creature within 5 feet of that point must make a Dexterity saving throw. A creature takes 3d8 fire damage on a failed save or half as much damage on a successful one. A creature in the area of the wall and fiery burst is affected only once.",
 				"The spell damages objects in the area and ignites flammable objects that aren't being worn or carried.",
-				"At Higher Levels. When you cast this spell using a spell slot of 7th level or higher the damage increases by 1d8 and the ring's radius increases by 5 feet for each slot level above 6th."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher the damage increases by 1d8 and the ring's radius increases by 5 feet for each slot level above 6th."
 			],
 			"damageInflict": [
 				"radiant"
@@ -3460,7 +3460,7 @@
 				"Tags: School of Magic - Transfiguration",
 				"You create a long snaking whip of fire from the tip of your wand lashing out and coiling around a creature in range. Make a melee spell attack against the target. On a hit the creature takes 3d10 fire damage and is grappled for the duration. As an action the target can attempt to escape from the grapple by making a Strength or Dexterity saving throw. If successful the spell ends.",
 				"If the creature is large or smaller you can use a bonus action to pull the creature up to 10 feet closer to you.",
-				"At Higher Levels. When you cast this spell using a spell slot of 4th level or higher the damage increases by 1d10 for each slot level above 3rd."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher the damage increases by 1d10 for each slot level above 3rd."
 			],
 			"damageInflict": [
 				"radiant"
@@ -3570,7 +3570,7 @@
 			"entries": [
 				"You send a pulse through the area in front of you freezing everything in space and time. Roll 7d10; the total is how many hit points of creatures this spell can affect. All creatures and objects in a 15-foot cube originating from you are affected in the order of nearest to farthest. Each creature affected by this spell is paralyzed until the spell ends. While paralyzed the creature is fixed in the space they occupied when the spell was cast which may leave it suspended in air.",
 				"Subtract each creature's current hit points from the total before moving on to another creature. A creature's hit points must be equal to or less than the remaining total for that creature to be affected. Any object that is wholly within the area is automatically affect by this spell for the duration and does not count against the number of hit points you can affect. If casting the spell only affects objects and does not affect any creatures the duration is up to 8 hours.",
-				"At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher roll an additional 2d10 for each slot level above 2nd. When you cast this spell using a spell slot of 4th level or higher the duration increases by 1 round for each two slot levels above 2nd."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher roll an additional 2d10 for each slot level above 2nd. When you cast this spell using a spell slot of 4th level or higher the duration increases by 1 round for each two slot levels above 2nd."
 			],
 			"damageInflict": [
 				"radiant"
@@ -3678,7 +3678,7 @@
 				"While the target is charmed you have a telepathic link with it. You can use this telepathic link to issue commands to the creature while you are conscious (no action required) which it does its best to obey. You can specify a simple and general course of action such as Attack that creature Run over there or Fetch that object. If the creature completes the order and doesn't receive further direction from you it defends and preserves itself to the best of its ability.",
 				"You can use your action to take total and precise control of the target. Until the end of your next turn the creature takes only the actions you choose and doesn't do anything that you don't allow it to do. During this time you can also cause the creature to use a reaction but this requires you to use your own reaction as well.",
 				"Each time the target takes damage it makes a new Charisma saving throw at disadvantage against the spell. If the saving throw succeeds the spell ends.",
-				"At Higher Levels. When you cast this spell using a higher level spell slot the duration is concentration up to 10 minutes (6th level) up to 1 hour (7th level) up to 8 hours (8th level) or until dispelled with no concentration (9th level)."
+				"***At Higher Levels.*** When you cast this spell using a higher level spell slot the duration is concentration up to 10 minutes (6th level) up to 1 hour (7th level) up to 8 hours (8th level) or until dispelled with no concentration (9th level)."
 			],
 			"damageInflict": [
 				"radiant"
@@ -3787,7 +3787,7 @@
 			"entries": [
 				"You conjure up an inanimate object in your hand or in an unoccupied space within range that you can see. This object can be no larger than 2 feet on a side and weigh no more than 10 pounds and its form must be that of a nonmagical object that you have seen.",
 				"The object disappears at the end of the spell's duration or if it takes any damage.",
-				"At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher you may select or stack one of the following effects for each slot level above 1st.",
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher you may select or stack one of the following effects for each slot level above 1st.",
 				"Increase the side length by 2 feet.",
 				"Increase the weight limit by 10 pounds."
 			],
@@ -3848,7 +3848,7 @@
 			"entries": [
 				"Black cords and ropes are conjured and wrap themselves forcefully around a target. If the target is an unwilling creature it must make a Strength saving throw. On a failed save the creature is restrained for the duration. Upon casting you can choose to anchor the ropes to the ground preventing the target from being moved by external forces.",
 				"The restrained creature or someone else who can reach it can use an action to make a Strength check against your spell save DC. On a success the restrained effect ends.",
-				"At Higher Levels. When you cast this spell using a spell slot of 4th level or higher the creature is also incapacitated rendering it unable make a Strength check to escape."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher the creature is also incapacitated rendering it unable make a Strength check to escape."
 			],
 			"damageInflict": [
 				"radiant"
@@ -3907,9 +3907,9 @@
 			],
 			"entries": [
 				"Tags: Dark",
-				"You create a bonfire on ground that you can see within range. Until the spell ends the bonfire fills a 5-foot cube. Any creature in the bonfire's space when you cast the spell must succeed on a Dexterity saving throw. It takes 2d6 fire damage on a failed save or half as much damage on a successful one. A creature must also make the saving throw when it moves into the bonfire's space for the first time on a turn or ends its turn there.",
+				"You create a bonfire on ground that you can see within range. Until the spell ends the bonfire fills a 5-foot cube. Any creature in the bonfire's space when you cast the spell must succeed on a Dexterity saving throw. It takes [2d6](!&#13;/r 2d6) fire damage on a failed save or half as much damage on a successful one. A creature must also make the saving throw when it moves into the bonfire's space for the first time on a turn or ends its turn there.",
 				"The bonfire ignites flammable objects in its area that aren't being worn or carried. If there is adequate fuel for the bonfire to burn it will continue burning after the spell ends.",
-				"At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher the damage increases by 1d6 for each slot level above 2nd."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher the damage increases by [1d6](!&#13;/r 1d6) for each slot level above 2nd."
 			],
 			"damageInflict": [
 				"radiant"
@@ -4020,8 +4020,8 @@
 				}
 			],
 			"entries": [
-				"This jinxes a target's mind giving them a brief moment of disorientation. Make a ranged spell attack against a creature within range. On a hit the target takes 1d6 psychic damage and the first time it makes a saving throw before the end of your next turn it must roll a d4 and subtract the number rolled from the save.",
-				"This spell's damage increases by 1d6 when you reach certain levels: 5th level (2d6) 11th level (3d6) and 17th level (4d6)."
+				"This jinxes a target's mind giving them a brief moment of disorientation. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit the target takes [1d6](!&#13;/r 1d6) psychic damage and the first time it makes a saving throw before the end of your next turn it must roll a d4 and subtract the number rolled from the save.",
+				"This spell's damage increases by [1d6](!&#13;/r 1d6) when you reach certain levels: 5th level ([2d6](!&#13;/r 2d6)) 11th level ([3d6](!&#13;/r 3d6)) and 17th level ([4d6](!&#13;/r 4d6))."
 			],
 			"damageInflict": [
 				"radiant"
@@ -4079,7 +4079,7 @@
 				"Tags: School of Magic - Healing",
 				"Invented by Urquhart Rackharrow this medieval remedy causes the recipient to purge and experience great abdominal pain. Choose one being that you can see within range to make a Constitution saving throw. If it fails the target's exhaustion is set to 2 levels for the duration. At the end of each of its turns the target can make a Constitution saving throw without disadvantage from exhaustion. On a success the spell ends. If the target has higher levels of exhaustion than the spell's effect the spell does not change its levels of exhaustion. If the target gains any levels of exhaustion within the duration of this spell it stacks with this spell's effect.",
 				"Additionally if the target is suffering any condition or negative effects from something it ingested such as drinking a poison this spell ends those effects.",
-				"At Higher Levels. If you cast this spell using a spell slot of 6th level or higher the target's exhaustion is set to 3 levels (6th level) 4 levels (7th level) or 5 levels (8th level)."
+				"***At Higher Levels.*** If you cast this spell using a spell slot of 6th level or higher the target's exhaustion is set to 3 levels (6th level) 4 levels (7th level) or 5 levels (8th level)."
 			],
 			"damageInflict": [
 				"radiant"
@@ -4144,7 +4144,7 @@
 				"Tags: School of Magic - Jinxes Hexes and Curses",
 				"You attempt to interrupt a being in the process of casting a spell. If the creature is verbally casting a spell of 3rd level or lower its spell fails and has no effect. If it is verbally casting a spell of 4th level or higher make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a success the creature's spell fails and has no effect.",
 				"On a success or if the being was casting the spell non-verbally the target must cast all other spells non-verbally for the duration. If it tries to cast a spell verbally it must first succeed on an Intelligence saving throw or the casting fails and the spell is wasted.",
-				"At Higher Levels. When you cast this spell using a spell slot of 4th level or higher the interrupted spell has no effect if its level is less than or equal to the level of the spell slot you used."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher the interrupted spell has no effect if its level is less than or equal to the level of the spell slot you used."
 			],
 			"damageInflict": [
 				"radiant"
@@ -4263,7 +4263,7 @@
 				"With legilimency a being's eyes become windows to their mind showing you a vision of their thoughts. For the duration you can read the thoughts of the being you've targeted with the spell as soon as eye contact can be made. After the spell effects begin eye contact does not need to be maintained.",
 				"You initially learn the surface thoughts of the being - what is most on its mind in that moment. As an action you can attempt to probe deeper into its mind. If you probe deeper the target must make a Wisdom saving throw. If it fails you gain insight into its reasoning (if any) its emotional state and something that looms large in its mind (such as something it worries over loves or hates). If it succeeds the spell ends. You can probe deeper a second time forcefully pulling memories from the being's mind if it fails the second Wisdom saving throw.",
 				"Questions verbally directed at the target naturally shape the course of its thoughts so this spell is particularly effective as part of an interrogation. If you cast the spell verbally and the target can hear you it knows you are probing into its mind and the creature can use its action on its turn to make an Intelligence check contested by your Intelligence check. If it succeeds the spell ends.",
-				"At Higher Levels. When you cast this spell using a spell slot of 4th level or higher the DC of the Wisdom saving throws increases by 1 for each slot level above 3rd."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher the DC of the Wisdom saving throws increases by 1 for each slot level above 3rd."
 			],
 			"damageInflict": [
 				"radiant"
@@ -4430,7 +4430,7 @@
 				}
 			],
 			"entries": [
-				"A common tool among bullies this curse binds a creature's legs as if they were tied together with rope. A creature you can see within range must make a Wisdom saving throw or have its speed halved and suffer disadvantage on Dexterity saving throws. Additionally each time it moves it must make a Dexterity saving throw without disadvantage from this spell or be knocked prone and take 1d4 bludgeoning damage."
+				"A common tool among bullies this curse binds a creature's legs as if they were tied together with rope. A creature you can see within range must make a Wisdom saving throw or have its speed halved and suffer disadvantage on Dexterity saving throws. Additionally each time it moves it must make a Dexterity saving throw without disadvantage from this spell or be knocked prone and take [1d4](!&#13;/r 1d4) bludgeoning damage."
 			],
 			"damageInflict": [
 				"radiant"
@@ -4480,7 +4480,7 @@
 				}
 			],
 			"entries": [
-				"This will make a person's legs so unsteady and weak that they aren't able to keep their balance. Make a ranged spell attack against a being within range. On a hit the target is knocked prone."
+				"This will make a person's legs so unsteady and weak that they aren't able to keep their balance. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a being within range. On a hit the target is knocked prone."
 			],
 			"damageInflict": [
 				"radiant"
@@ -4640,7 +4640,7 @@
 			],
 			"entries": [
 				"You conjure a pumpkin around a target's head blinding and deafening it. Choose one creature that you can see within range to make a Wisdom saving throw. If it fails the target is blinded and deafened for the duration. At the end of each of its turns the target can make a Wisdom saving throw. On a success the spell ends.",
-				"At Higher Levels. When you cast this spell using a spell slot of 4th level or higher you can target one additional creature for each slot level above 3rd."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher you can target one additional creature for each slot level above 3rd."
 			],
 			"damageInflict": [
 				"radiant"
@@ -4861,8 +4861,8 @@
 				}
 			],
 			"entries": [
-				"This terrifying spell transforms the victim's bogies (or boogers) into nasty green bats that crawl out of their nose and attack. Make a ranged spell attack against a being within range. On a hit the target and any hostile creatures within 5 feet of the target take 6d4 slashing damage. At the start of the target's turn and when any hostile creature starts its turn within 5 feet of the target it takes 3d4 slashing damage. If any creature has to make a saving throw to maintain concentration because of this spell's damage the saving throw is made at disadvantage.",
-				"At Higher Levels. When you cast this spell using a spell slot of 5th level or higher the initial damage increases by 2d4 for each slot level above 4th."
+				"This terrifying spell transforms the victim's bogies (or boogers) into nasty green bats that crawl out of their nose and attack. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a being within range. On a hit the target and any hostile creatures within 5 feet of the target take [6d4](!&#13;/r 6d4) slashing damage. At the start of the target's turn and when any hostile creature starts its turn within 5 feet of the target it takes [3d4](!&#13;/r 3d4) slashing damage. If any creature has to make a saving throw to maintain concentration because of this spell's damage the saving throw is made at disadvantage.",
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher the initial damage increases by [2d4](!&#13;/r 2d4) for each slot level above 4th."
 			],
 			"damageInflict": [
 				"radiant"
@@ -4973,7 +4973,7 @@
 			"entries": [
 				"Tags: Defensive",
 				"For the duration the creature you touch or yourself has immunity to fire damage excluding dragon fire and the azreth spell (Fiendfyre).",
-				"At Higher Levels. When you cast this spell using a spell slot of 6th level or higher the duration is doubled for each slot level above 5th. When you use a spell slot of 8th level or higher concentration is no longer required and its effect applies to dragon fire."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher the duration is doubled for each slot level above 5th. When you use a spell slot of 8th level or higher concentration is no longer required and its effect applies to dragon fire."
 			],
 			"damageInflict": [
 				"radiant"
@@ -5029,7 +5029,7 @@
 			],
 			"entries": [
 				"You create a 20-foot-radius sphere of fog centered on a point within range. The sphere spreads around corners and its area is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.",
-				"At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher the radius of the fog increases by 20 feet for each slot level above 1st."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher the radius of the fog increases by 20 feet for each slot level above 1st."
 			],
 			"damageInflict": [
 				"radiant"
@@ -5141,7 +5141,7 @@
 			"entries": [
 				"Tags: Defensive School of Magic - Jinxes Hexes and Curses",
 				"Commonly used by the Department of Magical Law enforcement this wards an area against apparition or disapparition. No one may arrive in the warded area via apparition/disapparition nor may any creatures within the warded area cast the spell. Any attempt to do so results in the typical apparition/disapparition effect except the creature stays exactly where they are.",
-				"At Higher Levels. When you cast this spell using a spell slot of 6th level or higher the radius of the sphere increases by 60 feet for each slot level above 5th."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher the radius of the sphere increases by 60 feet for each slot level above 5th."
 			],
 			"damageInflict": [
 				"radiant"
@@ -5202,7 +5202,7 @@
 				"You must mentally describe or visualize how the memories are affected. The being's mind fills in any gaps in the details of your description. If the spell ends before you have finished describing or visualizing the modified memories the target's memory isn't altered. Otherwise the modified memories take hold when the spell ends.",
 				"A modified memory doesn't necessarily affect how a being behaves particularly if the memory contradicts the creature's natural inclinations alignment or beliefs. An illogical modified memory such as implanting a memory of how much it enjoyed dousing itself in acid is dismissed perhaps as a bad dream. The HM might deem a modified memory too nonsensical to affect a being in a significant manner.",
 				"A vulnera sanentur or obliviate spell cast on the target restores the creature's true memory.",
-				"At Higher Levels. If you cast this spell using a spell slot of 6th level or higher you can alter the target's memories of an event that took place up to 7 days ago (6th level) 30 days ago (7th level) 1 year ago (8th level) or any time in the creature's past (9th level). Alternatively you can alter a detail or topic in all memories across those same time frames."
+				"***At Higher Levels.*** If you cast this spell using a spell slot of 6th level or higher you can alter the target's memories of an event that took place up to 7 days ago (6th level) 30 days ago (7th level) 1 year ago (8th level) or any time in the creature's past (9th level). Alternatively you can alter a detail or topic in all memories across those same time frames."
 			],
 			"damageInflict": [
 				"radiant"
@@ -5364,9 +5364,9 @@
 				}
 			],
 			"entries": [
-				"You cast this jinx on a group of tiny objects or a group of birds within range. The targets start swarming in the air in a 5-foot-diameter sphere in an unoccupied space of your choice. Any creature that starts its turn within 5 feet of the swarm or enters the swarm's area for the first time on a turn must make a Dexterity saving throw. The creature takes 3d4 slashing damage on a failed save or half as much damage on a successful one.",
+				"You cast this jinx on a group of tiny objects or a group of birds within range. The targets start swarming in the air in a 5-foot-diameter sphere in an unoccupied space of your choice. Any creature that starts its turn within 5 feet of the swarm or enters the swarm's area for the first time on a turn must make a Dexterity saving throw. The creature takes [3d4](!&#13;/r 3d4) slashing damage on a failed save or half as much damage on a successful one.",
 				"As a bonus action you can move the sphere up to 30 feet. While the swarm shares the same space with a creature that creature has disadvantage on attack rolls. The swarm's space counts as difficult terrain.",
-				"At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher the damage increases by 1d4 for each slot level above 2nd."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher the damage increases by [1d4](!&#13;/r 1d4) for each slot level above 2nd."
 			],
 			"damageInflict": [
 				"radiant"
@@ -5422,10 +5422,10 @@
 			],
 			"entries": [
 				"Tags: School of Magic - Transfiguration",
-				"You choose a space on the ground that is currently occupied by a creature you can see within range. The ground becomes a thick liquid and swirls out from under the creature in an orb-like shape. The material then slams back down and regains its previous solidity in an attempt to bury the creature's legs. The target must make a Dexterity saving throw. On a failed save the target takes 3d6 bludgeoning damage and is restrained for the spell's duration.",
-				"As an action you can cause the earth to crush the restrained target who must make a Strength saving throw. It takes 3d6 bludgeoning damage on a failed save or half as much damage on a successful one.",
+				"You choose a space on the ground that is currently occupied by a creature you can see within range. The ground becomes a thick liquid and swirls out from under the creature in an orb-like shape. The material then slams back down and regains its previous solidity in an attempt to bury the creature's legs. The target must make a Dexterity saving throw. On a failed save the target takes [3d6](!&#13;/r 3d6) bludgeoning damage and is restrained for the spell's duration.",
+				"As an action you can cause the earth to crush the restrained target who must make a Strength saving throw. It takes [3d6](!&#13;/r 3d6) bludgeoning damage on a failed save or half as much damage on a successful one.",
 				"To break out the restrained target use its action to make a Strength check against your spell save DC. On a success the target pulls its legs free and is no longer restrained.",
-				"At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher the damage increases by 1d6 for each slot level above 2nd."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher the damage increases by [1d6](!&#13;/r 1d6) for each slot level above 2nd."
 			],
 			"damageInflict": [
 				"radiant"
@@ -5527,7 +5527,7 @@
 			"entries": [
 				"Tags: Defensive",
 				"This unique charm redirects magical effects to create an opening. On any area spell of 3rd level or lower that forms a line wall or perimeter an opening appears in the spell's effect at a point of your choice that you can see within range and lasts for the duration. You choose the opening's dimensions: up to 5 feet wide and 8 feet tall. For a spell of 4th level or higher on the target make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a successful check the opening is created. The opening can be dispelled at will.",
-				"At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher you automatically create an opening in the spell if the spell's level is one level higher than equal to or less than the level of the spell slot you used."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher you automatically create an opening in the spell if the spell's level is one level higher than equal to or less than the level of the spell slot you used."
 			],
 			"damageInflict": [
 				"radiant"
@@ -5582,7 +5582,7 @@
 			],
 			"entries": [
 				"With a tap of a wand on the top of the head and a sensation of raw egg being broken where the wand was tapped a creature becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person. The spell ends for a target that attacks or casts a spell.",
-				"At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher you can target one additional creature for each slot level above 2nd. The targets must be within 5 feet of each other when you target them."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher you can target one additional creature for each slot level above 2nd. The targets must be within 5 feet of each other when you target them."
 			],
 			"damageInflict": [
 				"radiant"
@@ -5792,8 +5792,8 @@
 				}
 			],
 			"entries": [
-				"This spell makes a being's arms and legs snap together and it will fall down stiff as a board. Make a ranged spell attack against a creature within range. On a hit the target is knocked prone and paralyzed for the duration. At the end of each of its turns the target can make a Wisdom saving throw. On a success the spell ends on the target.",
-				"At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher you can target a beast instead of a being."
+				"This spell makes a being's arms and legs snap together and it will fall down stiff as a board. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit the target is knocked prone and paralyzed for the duration. At the end of each of its turns the target can make a Wisdom saving throw. On a success the spell ends on the target.",
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher you can target a beast instead of a being."
 			],
 			"damageInflict": [
 				"radiant"
@@ -5852,7 +5852,7 @@
 				"As a bonus action, you can mentally command any creature you made with this spell if the creature is within 500 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.",
 				"Constitution is 10 and its Intelligence and Wisdom are 3, and its Charisma is 1. Its speed is 30 feet, if the Objects lack legs or other appendages it can use for locomotion, it instead has a flying speed of 30 feet and can hover. If the object is securely attached to a surface or larger object, such as a chain bolted to a wall, its speed is 0. It has blindsight with a radius of 30 feet and is blind beyond that distance. When the animated object drops to 0 hit points, it is destroyed.",
 				"If you command an object to attack, it can make a single melee attack against a creature within 5 feet of it. It makes a slam attack with an attack bonus and bludgeoning damage determine by its size. The HM might rule that a specific object inflicts slashing or piercing damage based on its form.",
-				"At Higher Levels. If you cast this spell using a spell slot of 6th level or higher, you can animate one additional object for each slot level above 5th."
+				"***At Higher Levels.*** If you cast this spell using a spell slot of 6th level or higher, you can animate one additional object for each slot level above 5th."
 			],
 			"damageInflict": [
 				"radiant"
@@ -6129,7 +6129,7 @@
 				"Tags: Defensive School of Magic - Healing",
 				"An immobile faintly shimmering barrier springs into existence in a 10-foot radius around you and remains for the duration.",
 				"Any attack or spell of 5th level or lower cast from outside the barrier can't affect creatures or objects within it even if the spell is cast using a higher level spell slot. Such a spell can target creatures and objects within the barrier but the spell has no effect on them. Similarly the area within the barrier is excluded from the areas affected by such spells.",
-				"At Higher Levels. When you cast this spell using a spell slot of 7th level or higher the barrier blocks spells of one level higher for each slot level above 6th."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher the barrier blocks spells of one level higher for each slot level above 6th."
 			],
 			"damageInflict": [
 				"radiant"
@@ -6390,7 +6390,7 @@
 			"entries": [
 				"Tags: Defensive School of Magic - Transfiguration",
 				"Choose any creature object or magical effect within range. One Transfiguration spell of 2nd level or lower on the target ends. If you are aware of at least one spell affecting the target you can specify that spell in your mind. If you are unaware of what spells are affecting the target one randomly selected spell ends. For a spell of a higher level on the target make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a successful check the spell ends.",
-				"At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher you automatically end the effects of a Transfiguration spell on the target if the spell's level is equal to or less than the level of the spell slot you used."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher you automatically end the effects of a Transfiguration spell on the target if the spell's level is equal to or less than the level of the spell slot you used."
 			],
 			"damageInflict": [
 				"radiant"
@@ -6440,7 +6440,7 @@
 			],
 			"entries": [
 				"A being you tap with your wand regains a 1d8 hit points. You can also end either one disease or one condition afflicting it. The condition can be blinded deafened paralyzed or poisoned.",
-				"At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher the healing increases by 1d8 for each slot level above 1st."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher the healing increases by 1d8 for each slot level above 1st."
 			],
 			"damageInflict": [
 				"radiant"
@@ -6492,7 +6492,7 @@
 			"entries": [
 				"This spell magically reverses any damage done to any objects or structures within a 5-foot cube collecting all the pieces or components and reassembling them. Anything previously contained by the broken target like a spilled liquid is not placed back inside it. Anything affected by the breaking of the target like a person who fell through a broken platform is not undone. There is no effect on anything within the area that's undamaged nor on anything damaged by time or decay.",
 				"This spell can physically repair a magic item but the spell can't restore magic to such an object.",
-				"At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher the size of the cube increases by 10 feet for each slot level above 2nd."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher the size of the cube increases by 10 feet for each slot level above 2nd."
 			],
 			"damageInflict": [
 				"radiant"
@@ -6554,7 +6554,7 @@
 				"The affected creatures can't willingly enter the hemisphere by nonmagical means. If the creature tries to use apparition/disapparition to do so it must first succeed on a Charisma saving throw.",
 				"The affected creatures have disadvantage on attack rolls against targets within the hemisphere.",
 				"Targets within the hemisphere can't be charmed or frightened by affected creatures.",
-				"At Higher Levels. When you cast this spell using a spell slot of 4th level or higher the duration increases by 1 hour for each slot level above 3rd."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher the duration increases by 1 hour for each slot level above 3rd."
 			],
 			"damageInflict": [
 				"radiant"
@@ -6717,7 +6717,7 @@
 				}
 			],
 			"entries": [
-				"This low-level dueling spell gives the recipient an intense tickling sensation. Make a ranged spell attack against a being within range. On a hit the target will double over in laughter and become incapacitated with its speed halved until the start of your next turn."
+				"This low-level dueling spell gives the recipient an intense tickling sensation. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a being within range. On a hit the target will double over in laughter and become incapacitated with its speed halved until the start of your next turn."
 			],
 			"damageInflict": [
 				"radiant"
@@ -6818,8 +6818,8 @@
 			],
 			"entries": [
 				"Tags: Dark",
-				"A conjured arrow streaks toward a designated target. Make a ranged spell attack against a target within range. On a hit the target takes 1d12 piercing damage.",
-				"At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher you conjure one additional arrow for each slot level above 1st. You can direct the arrows at the same target or at different ones. Make a separate attack roll for each arrow."
+				"A conjured arrow streaks toward a designated target. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a target within range. On a hit the target takes 1d12 piercing damage.",
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher you conjure one additional arrow for each slot level above 1st. You can direct the arrows at the same target or at different ones. Make a separate attack roll for each arrow."
 			],
 			"damageInflict": [
 				"radiant"
@@ -6976,8 +6976,8 @@
 			],
 			"entries": [
 				"Tags: Dark School of Magic - Jinxes Hexes and Curses",
-				"Make a ranged spell attack against a target within range. On a hit the target must make a Constitution saving throw. On a failed save a creature takes 10d6 slashing damage and another 5d6 slashing damage at the end of its next turn. On a successful save a creature takes half the initial damage and half the damage at the end of its next turn.",
-				"At Higher Levels. When you cast this spell using a spell slot of 5th level or higher the initial damage increases by 2d6 for each slot level above 4th."
+				"Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a target within range. On a hit the target must make a Constitution saving throw. On a failed save a creature takes 10d6 slashing damage and another [5d6](!&#13;/r 5d6) slashing damage at the end of its next turn. On a successful save a creature takes half the initial damage and half the damage at the end of its next turn.",
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher the initial damage increases by [2d6](!&#13;/r 2d6) for each slot level above 4th."
 			],
 			"damageInflict": [
 				"radiant"
@@ -7029,7 +7029,7 @@
 			"entries": [
 				"Tags: Dark",
 				"You conjure a venomous snake from thin air. A snake appears in an unoccupied space that you can see within range. Roll initiative for the summoned creature which has its own turns. Although the snake won't willingly attack the caster you cannot control the actions or targets of the snake. It is possible for the snake to be turned against you through magical means.",
-				"At Higher Levels. When you cast this spell using a higher level spell slot multiple snakes are conjured in unoccupied spaces that you can see within range. Choose from the following options: two snakes (4th level) three snakes (6th level) or four snakes (8th level). Initiative is rolled as a group."
+				"***At Higher Levels.*** When you cast this spell using a higher level spell slot multiple snakes are conjured in unoccupied spaces that you can see within range. Choose from the following options: two snakes (4th level) three snakes (6th level) or four snakes (8th level). Initiative is rolled as a group."
 			],
 			"damageInflict": [
 				"radiant"
@@ -7140,8 +7140,8 @@
 				}
 			],
 			"entries": [
-				"This particularly nasty hex causes one to spit up slugs for the duration. Make a ranged spell attack against a creature within range. On a hit it takes 3d8 psychic damage and gains one level of exhaustion. If it tries to cast a spell verbally before the end of its next turn it must first succeed on a Constitution saving throw or the casting fails and the spell is wasted.",
-				"At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher the damage increases by 1d8 for each slot level above 2nd."
+				"This particularly nasty hex causes one to spit up slugs for the duration. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a creature within range. On a hit it takes 3d8 psychic damage and gains one level of exhaustion. If it tries to cast a spell verbally before the end of its next turn it must first succeed on a Constitution saving throw or the casting fails and the spell is wasted.",
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher the damage increases by 1d8 for each slot level above 2nd."
 			],
 			"damageInflict": [
 				"radiant"
@@ -7355,8 +7355,8 @@
 				}
 			],
 			"entries": [
-				"This charm is the most common dueling spell in the wizarding world harmlessly ending a duel between two wizards. Make a ranged spell attack against a being within range. On a hit the target falls unconscious for the duration or until they are revived with rennervate.",
-				"At Higher Levels. If you cast this spell using a spell slot of 3rd level or higher the duration increases to 1 hour (3rd level) or 8 hours (4th level). Alternatively when you cast this spell using a spell slot of 4th level or higher you can target a beast instead of a being for a duration of 10 minutes (4th level) 1 hour (5th level) or 8 hours (6th level)."
+				"This charm is the most common dueling spell in the wizarding world harmlessly ending a duel between two wizards. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a being within range. On a hit the target falls unconscious for the duration or until they are revived with rennervate.",
+				"***At Higher Levels.*** If you cast this spell using a spell slot of 3rd level or higher the duration increases to 1 hour (3rd level) or 8 hours (4th level). Alternatively when you cast this spell using a spell slot of 4th level or higher you can target a beast instead of a being for a duration of 10 minutes (4th level) 1 hour (5th level) or 8 hours (6th level)."
 			],
 			"damageInflict": [
 				"radiant"
@@ -7411,7 +7411,7 @@
 				}
 			],
 			"entries": [
-				"This entertaining jinx forces its victim to do a comic dance in place: shuffling tapping its feet and capering. Make a ranged spell attack against a target within range. On a hit a dancing creature must use all its movement to dance without leaving its space until the end of your next turn. While the creature is affected by this spell it has disadvantage on Dexterity saving throws and attack rolls and other creatures have advantage on attack rolls against it. As an action a dancing creature makes a Wisdom saving throw to regain control of itself. On a successful save the spell ends."
+				"This entertaining jinx forces its victim to do a comic dance in place: shuffling tapping its feet and capering. Make a ranged spell attack ( [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] | [[1d20+@{spell_attack_bonus}[SpellAtk]+@{global_attack_mod}[GlobalAtkMod]]] ) against a target within range. On a hit a dancing creature must use all its movement to dance without leaving its space until the end of your next turn. While the creature is affected by this spell it has disadvantage on Dexterity saving throws and attack rolls and other creatures have advantage on attack rolls against it. As an action a dancing creature makes a Wisdom saving throw to regain control of itself. On a successful save the spell ends."
 			],
 			"damageInflict": [
 				"radiant"
@@ -7524,7 +7524,7 @@
 				"A dark purpose for transfiguration this tortuous spell slowly rearranges and dissolves a creature's internal organs. A creature you can see within range must make a Constitution saving throw. On a failed save it takes 2d12 acid damage at the start of each of its turns and is subject to crippling pain. On a successful save the spell has no effect.",
 				"While the target is affected by crippling pain any speed it has can be no higher than 10 feet. The target also has disadvantage on attack rolls and ability checks. Finally if the target tries to cast a spell it must first succeed on a Constitution saving throw or the casting fails and the spell is wasted.",
 				"A target suffering from this spell can make a Constitution saving throw at the end of each of its turns. On a successful save the spell ends.",
-				"At Higher Levels. When you cast this spell using a spell slot of 6th level or higher the damage increases by 1d12 for each slot level above 5th."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher the damage increases by 1d12 for each slot level above 5th."
 			],
 			"damageInflict": [
 				"radiant"
@@ -7583,7 +7583,7 @@
 				"One medium or smaller creature that you choose must succeed on a Strength saving throw or be instantaneously pushed up to 5 feet away from you and be rendered unable to move closer to you for the duration.",
 				"You create a small blast of air capable of moving one object that is neither held nor carried and that weighs no more than 5 pounds. The object is pushed up to 10 feet away from you per round for the duration of the spell. It isn't pushed with enough force to cause damage.",
 				"You create a harmless sensory effect using air such as causing leaves to rustle wind to slam shutters shut or your clothing to ripple in a breeze. If desired the air can be hot and function like a blow dryer.",
-				"At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher you can target one additional creature for each slot level above 2nd. The creatures must be within 30 feet of each other when you target them."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher you can target one additional creature for each slot level above 2nd. The creatures must be within 30 feet of each other when you target them."
 			],
 			"damageInflict": [
 				"radiant"
@@ -7636,7 +7636,7 @@
 			],
 			"entries": [
 				"This universal incantation is taught to Hogwarts students in their first Transfiguration class. You transfigure one nonmagical object that fits within a 1-foot cube into another nonmagical object of similar size and mass and of equal or lesser value.",
-				"At Higher Levels. When you cast this spell using a spell slot of 1st level or higher you may select or stack one of the following effects for each slot level above 0.",
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 1st level or higher you may select or stack one of the following effects for each slot level above 0.",
 				"Increase the cube size by 2 feet.",
 				"Target a living creature (if unwilling it must make a Wisdom saving throw to avoid the effect).",
 				"Transfigure into a construct (Duration: Concentration up to 1 minute)."
@@ -7753,9 +7753,9 @@
 			],
 			"entries": [
 				"Tags: School of Magic",
-				"Tracing your wand over a being's wounds you weave a complex counter-curse that undoes the damage dealt to a being. The target regains four times your spellcasting ability modifier + 4d8 hit points instantaneously and then 4d4 hit points for every following turn for the duration of the spell.",
+				"Tracing your wand over a being's wounds you weave a complex counter-curse that undoes the damage dealt to a being. The target regains four times your spellcasting ability modifier + 4d8 hit points instantaneously and then [4d4](!&#13;/r 4d4) hit points for every following turn for the duration of the spell.",
 				"If the target has lost body members (fingers legs and so on) and the severed part is held to its place throughout the entire duration of the spell the spell causes the limb to heal back on after 1 minute of casting.",
-				"At Higher Levels. When you cast this spell using a spell slot of 7th level or higher the instantaneous healing increases by 1d8 and the subsequent healing increases by 3d4 for each slot level above 6th."
+				"***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher the instantaneous healing increases by 1d8 and the subsequent healing increases by [3d4](!&#13;/r 3d4) for each slot level above 6th."
 			],
 			"damageInflict": [
 				"radiant"
